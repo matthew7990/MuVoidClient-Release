@@ -1,16 +1,15 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Optimización: Verificación de archivos en paralelo",
-                      "Optimización: Hash streaming para bajo consumo de RAM",
-                      "Optimización: Throttling de eventos UI",
-                      "Mantenimiento: Pool de descargas corregido"
+                      "Sistema de logs activado en %LOCALAPPDATA%\\MuVoid\\launcher.log",
+                      "Timeouts en conexiones para evitar bloqueos",
+                      "Mejor manejo de errores de red"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "a8d833548aa41857bc5f0e3f0305e61cf1d29fdfb1883a1a5728596e237f38ef",
-                      "size":  12906496
+                      "sha256":  "416db2d513bf88a25ef38483bb887f2310456f397b9f429092a524b4721da62c",
+                      "size":  12925952
                   }
               ],
     "version":  "1.0.0"
