@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.9",
     "date":  "2026-02-21",
-    "commit":  "ec2e466",
+    "commit":  "e4572c3",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "a0edb737547469a939da29ecd37968b931cd8d3e325f851afb5e10c1b855fc59",
+                      "sha256":  "e66dceb1dff49ed6a9cee484ff70fb107844a5f6286d97bb5cc40b501901f756",
                       "size":  5702144
                   },
                   {
