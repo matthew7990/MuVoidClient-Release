@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.6",
+    "version":  "1.0.7",
     "date":  "2026-02-21",
-    "commit":  "52bdb6d",
+    "commit":  "25cd3e7",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "9ea601b5478d833d3bb16c2c5ba93522d23631aa6881d3942843a8cdb8be54e6",
-                      "size":  5681664
+                      "sha256":  "4c27947aafbfcc8c79b73c0a69c5c0ae2e27eb41abbf5d954353d50ac7174638",
+                      "size":  5702144
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -55,6 +55,881 @@
                       "path":  "Data/Macro.txt",
                       "sha256":  "7dcf122b3c1030b4c6ce56e9c6d37d55fbec08f1c93d5ab6e4de5b6486e0d068",
                       "size":  20
+                  },
+                  {
+                      "path":  "Data/99bInt/.gitkeep",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0
+                  },
+                  {
+                      "path":  "Data/99bInt/accept_box01.OZJ",
+                      "sha256":  "2c04b3f3c73f1c66c0ce4627c1a703dc92cbd0b825865db27f64d38743c73779",
+                      "size":  14175
+                  },
+                  {
+                      "path":  "Data/99bInt/accept_box02.OZJ",
+                      "sha256":  "7f3f13240900ec41e71a7912b436416ecd7b94c88458a47f93e90e1c5506f994",
+                      "size":  13881
+                  },
+                  {
+                      "path":  "Data/99bInt/back1.OZJ",
+                      "sha256":  "6c3d87545d8f2e7c3cc0c3a69b1abe9f0343be4532a7cfcaddf10eec551551d6",
+                      "size":  6017
+                  },
+                  {
+                      "path":  "Data/99bInt/back2.OZJ",
+                      "sha256":  "14d6b2bcef41485e6e53048abf6ec998d92350664c88b77c1d037a45da23364a",
+                      "size":  6621
+                  },
+                  {
+                      "path":  "Data/99bInt/back3.OZJ",
+                      "sha256":  "07c23f54d378618a08e364545c82750d1843be1fce1a5bdc6a0ecef54e8a03ed",
+                      "size":  6572
+                  },
+                  {
+                      "path":  "Data/99bInt/bar.OZJ",
+                      "sha256":  "34671424f94f37aaf145de19653fe276667e9b4509381180dd81b1daea0f151f",
+                      "size":  5770
+                  },
+                  {
+                      "path":  "Data/99bInt/battleskill.ozt",
+                      "sha256":  "224cf0a8d573c6bcb8d1e4a0c05b2c5a29a92bebd956cc947a7489182e60809f",
+                      "size":  16432
+                  },
+                  {
+                      "path":  "Data/99bInt/btn_pshop.OZJ",
+                      "sha256":  "abffa0930c2e67ee286eebba37c9676efb6a6606fe849d90a68a145fdf406af5",
+                      "size":  14136
+                  },
+                  {
+                      "path":  "Data/99bInt/btn_pshop2.OZJ",
+                      "sha256":  "d599bb48382004086c201b7d11eab8cfca77000622174c7c80ac00d050b5eb77",
+                      "size":  13783
+                  },
+                  {
+                      "path":  "Data/99bInt/buy_01.OZJ",
+                      "sha256":  "7e5237d365d67edefdd55b1261360728a5ddbbba8c53b35a4e19b86f43d28416",
+                      "size":  14401
+                  },
+                  {
+                      "path":  "Data/99bInt/buy_02.OZJ",
+                      "sha256":  "2f6c2df52a0f94264fd312e02227f118622e580c4c0ab4e9931fc44d224c4500",
+                      "size":  14184
+                  },
+                  {
+                      "path":  "Data/99bInt/b_command01.ozj",
+                      "sha256":  "6839e40ea1b96503c606c143cac5954e3bab46ff22847f47d781ec88ac2d4226",
+                      "size":  10737
+                  },
+                  {
+                      "path":  "Data/99bInt/b_command02.ozj",
+                      "sha256":  "da08d37b8ffd3acfd5a1fe4e5f8e1902f91552a5f9ec7ea09f761b68ac4f8aca",
+                      "size":  10752
+                  },
+                  {
+                      "path":  "Data/99bInt/b_connect.ozt",
+                      "sha256":  "301ded0a072e52a08d7164c5e7820bbea92e4147bf0c77dcba6cea37ae6d45f5",
+                      "size":  25968
+                  },
+                  {
+                      "path":  "Data/99bInt/b_create.ozt",
+                      "sha256":  "e21714c018ccb5875e6477dc3f2cb44868c4802c94d077ee28ffae195091ceb7",
+                      "size":  25968
+                  },
+                  {
+                      "path":  "Data/99bInt/b_delete.ozt",
+                      "sha256":  "3f8389fd069e6b34da7e913ec449d4098d14f309e70efe1e634d15b8d4ebcf81",
+                      "size":  25968
+                  },
+                  {
+                      "path":  "Data/99bInt/b_group02.ozj",
+                      "sha256":  "66b92873b5992de16821e7f5d45bcbc367a966503f8771c6e9d813ddbb992894",
+                      "size":  10610
+                  },
+                  {
+                      "path":  "Data/99bInt/b_zoomout01.ozj",
+                      "sha256":  "f397400cfb169c634f3476ede62636a7720e94f52adf7577be8d75ad7a310e92",
+                      "size":  11243
+                  },
+                  {
+                      "path":  "Data/99bInt/cancel.OZJ",
+                      "sha256":  "07555f04270355958aff51e66917137533db112ca04bca2cd3577e3d8b6793fb",
+                      "size":  6923
+                  },
+                  {
+                      "path":  "Data/99bInt/cancel2.OZJ",
+                      "sha256":  "0793c5bf1bb8b0a28bd9dd1aab47d0dc2b9ed24d00c9998b0f3e99d37dd84f7e",
+                      "size":  7697
+                  },
+                  {
+                      "path":  "Data/99bInt/cha_bt.ozt",
+                      "sha256":  "52fab0fff2e07a30c27c55c4ec7efa77723d6b1d846921304c77a2ede57390d0",
+                      "size":  44976
+                  },
+                  {
+                      "path":  "Data/99bInt/cha_id.ozt",
+                      "sha256":  "dfb6f5db029d974e9cd2bfb676b622491b5e6c0a4ef83fbd34984f3ac836fa22",
+                      "size":  52640
+                  },
+                  {
+                      "path":  "Data/99bInt/cha_id.tga",
+                      "sha256":  "4ebe755e4bcf677ed3a16ef7dedd2471ce3d185db85df549e6f3c3bda81b8f91",
+                      "size":  52636
+                  },
+                  {
+                      "path":  "Data/99bInt/cmdType.OZJ",
+                      "sha256":  "b58154435f71b1f580aa91536422b66e2dbca4dfb2986bc5079ba64538266d7d",
+                      "size":  91740
+                  },
+                  {
+                      "path":  "Data/99bInt/coin.OZJ",
+                      "sha256":  "fed21213db5c6c4cef7e54c4178bd0d0fabd13a9fb485d1d72d74405d0bab2fc",
+                      "size":  7900
+                  },
+                  {
+                      "path":  "Data/99bInt/command.ozj",
+                      "sha256":  "2d385a6fccf3f4a735f22ee36ac8ac83c07d44eaf54572021a8c330d3885cafa",
+                      "size":  122604
+                  },
+                  {
+                      "path":  "Data/99bInt/Cursor.ozt",
+                      "sha256":  "fa263b817af88071d88a24c279c98d12bfa14b3abb18a450c407904d4edad630",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorAttack.ozt",
+                      "sha256":  "abb0720a0b1ac63c74620a38ec189f9299e302a52c940b3b519f7c74891a6edb",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorAttack2.OZT",
+                      "sha256":  "4e2507eed6577a10f915beb1691ad64a45b6b4ae0f7823b3519c9eb4973816f5",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorDontMove.OZT",
+                      "sha256":  "6408e3b15a26d4597f5273c352bd32b74d6f8500b016f545c5e235cf5745221b",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorEye.ozt",
+                      "sha256":  "5edabe747d693f2b04e6d267dbbb27f731513ef70b1147c11fa29825bf6bca7e",
+                      "size":  16432
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorGet.ozt",
+                      "sha256":  "d73e18d548dad9eb7b88f5929c979c2ae9d9142dfd6b9a8bdbeb6a4fb756ad3f",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/Cursorid.OZT",
+                      "sha256":  "f6dc986734bc3c21509342b0b4f0aabaaf4315760bd8bb67c48938de7880b556",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/Cursorid_wnd.OZJ",
+                      "sha256":  "5af960931cb46252b328af23c5a1c8356c78ae8d7639a29e79035fc64f53548f",
+                      "size":  6396
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorLeanAgainst.ozt",
+                      "sha256":  "96f2034d2ff677c48bb14924553eafa727bb17cbfb32628bd2f0296127882ebb",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorPush.ozt",
+                      "sha256":  "ab5d8a34dccc189fb5930d63a4c70772908767d95f3a92294fb7f11bd1eb88c4",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorRepair.OZT",
+                      "sha256":  "412a86570a9b2245fb75ffebaa7fdc3950bb090b7e6369a02f027fdff751f1f5",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorSitDown.ozt",
+                      "sha256":  "67c810fd2acd214309d753ae42f7605490cb33be638661286988a2430d229051",
+                      "size":  4144
+                  },
+                  {
+                      "path":  "Data/99bInt/CursorTalk.ozt",
+                      "sha256":  "7983731596c064aeaa3e30df53849a3e00fcd82836be1aecf0bfda9ce31d6c5c",
+                      "size":  16432
+                  },
+                  {
+                      "path":  "Data/99bInt/deco.ozt",
+                      "sha256":  "9546214aa55a652113bfafab60ee14af9ec887b80081fc41bce4e6263e8f5a33",
+                      "size":  77916
+                  },
+                  {
+                      "path":  "Data/99bInt/delete_secret_number.ozt",
+                      "sha256":  "cd59865c2a05b13d65b8b45d4db4a2579a9fd16143978117ed579558b2d871b4",
+                      "size":  15780
+                  },
+                  {
+                      "path":  "Data/99bInt/dialogue1.OZJ",
+                      "sha256":  "983a1eccf1dfa9ecd86ee2396c56f6db704aee6c93bd7297511cabdb403bd444",
+                      "size":  7410
+                  },
+                  {
+                      "path":  "Data/99bInt/dialogue2.OZJ",
+                      "sha256":  "43e45e4fa2e0a271935b6ecec6f790447de2b3310725a99e3793770c5a36f276",
+                      "size":  7687
+                  },
+                  {
+                      "path":  "Data/99bInt/dialogue2_1.OZJ",
+                      "sha256":  "1cdb3c99a295451c429e3ce11313ad1f7edd137f71f7227f80dcffe1f0bcc9fb",
+                      "size":  4245
+                  },
+                  {
+                      "path":  "Data/99bInt/DuelWindow.OZJ",
+                      "sha256":  "68b6b30e34d675eebd90b300b6d50dd97b364efc5daf8d253cf003a815665ac8",
+                      "size":  12629
+                  },
+                  {
+                      "path":  "Data/99bInt/exit_01.OZJ",
+                      "sha256":  "217f12be2001c3866d0afe419630a5930175467f573d588928b6bb75c1f55f32",
+                      "size":  15203
+                  },
+                  {
+                      "path":  "Data/99bInt/exit_02.OZJ",
+                      "sha256":  "89ed9f9815d9485a5d2aa3662fc72566e1ef31424de5a28476e7afc5a04e4218",
+                      "size":  14834
+                  },
+                  {
+                      "path":  "Data/99bInt/Font.ozt",
+                      "sha256":  "426d446525677109b5f932bc359cc5ab4597aec6d4e1dcd6da416df226d6279b",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/99bInt/FontInput.OZT",
+                      "sha256":  "978fb6f0270242e23a22bc131fdea9059b0420e3382d160bb1df04c00db0af57",
+                      "size":  32816
+                  },
+                  {
+                      "path":  "Data/99bInt/FontTest.OZT",
+                      "sha256":  "65ccbf4f0cfb265d057b58af25bd85bef05a7d390844378168e7b3029e736e0b",
+                      "size":  32816
+                  },
+                  {
+                      "path":  "Data/99bInt/Guild.OZJ",
+                      "sha256":  "cdbe3a8d26edd2409287b7d9cfc9f974995c2adb23c235f330127247bc26d83c",
+                      "size":  13214
+                  },
+                  {
+                      "path":  "Data/99bInt/guild.OZT",
+                      "sha256":  "b659c6fbc403d7f4a2ac4d8068c90ec1664519894a939946fca3ac8d01a5fb7e",
+                      "size":  304
+                  },
+                  {
+                      "path":  "Data/99bInt/hourglass.ozt",
+                      "sha256":  "4a9463572757f22e4d1070d8b1a0d2f705a3188373be016f97ca08120ba11f1f",
+                      "size":  14216
+                  },
+                  {
+                      "path":  "Data/99bInt/InventoryBox2.OZJ",
+                      "sha256":  "2022e3e981f9a32e3522e820890cd055d2440efe2ba96aba7f265e0f21e43209",
+                      "size":  14527
+                  },
+                  {
+                      "path":  "Data/99bInt/in_bar.ozt",
+                      "sha256":  "e35d3f5f1b237b3d33c2508b555755715e14d3c91a69252bb4fb3d1ada48d1c6",
+                      "size":  8196
+                  },
+                  {
+                      "path":  "Data/99bInt/in_bar2.ozj",
+                      "sha256":  "1570eda6578655b1790c1b0e09b3d9027939fef3bc7bed9fea5de7e01f80e04f",
+                      "size":  11038
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Back01.OZJ",
+                      "sha256":  "386f14f352478bb55bbf6627b55742ce0063d0fbe11744cdb2ca63a48587b192",
+                      "size":  54789
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Back02.OZJ",
+                      "sha256":  "fe6a6feecbadd54bac3f0ec53ea9fd439d8ff0390a151461e301077451888349",
+                      "size":  48845
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Boots.OZJ",
+                      "sha256":  "3feb217217357547224f3038d264ed260a4b37c59443cc7fa21ee071d750baed",
+                      "size":  15900
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_box.OZJ",
+                      "sha256":  "47e902d25961cea3965dde7d4d913219fe291f3fd4f751173ac1e796251e5992",
+                      "size":  14526
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Cap.OZJ",
+                      "sha256":  "e1b94a976924fda25336d25e8a2c239199841d6c2042dc395f5891bb635d726c",
+                      "size":  16091
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Fairy.OZJ",
+                      "sha256":  "74069b8fe8917763a83533bdef94a3fdddc7ddeab85864de76350ff5a10d4db8",
+                      "size":  15897
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Gloves.OZJ",
+                      "sha256":  "0295573435b45a58c2f73410ba8ae7719593d046ebc6f8b1d23654c1950aac16",
+                      "size":  16077
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Lower.OZJ",
+                      "sha256":  "77d837cd132e668f83532f6f24382233c1410dcbecd2fea4c83e0c9cbc9d40f5",
+                      "size":  15970
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Money.OZJ",
+                      "sha256":  "8572d44e6b05760eba4296634f0a5cf8bd6134b96a7f220f391f3c082cccc1ee",
+                      "size":  15313
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_NeckLace.OZJ",
+                      "sha256":  "15c5b96fb01bcab0515503409ff09c8b5fdc051de90f69fe572b53cd0016a3ba",
+                      "size":  14465
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Ring.OZJ",
+                      "sha256":  "ae41d1599f1151a6e87641aa21314e7cb0a09f5e7c91b065bf9d7bbbc6f321d3",
+                      "size":  14445
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Upper.OZJ",
+                      "sha256":  "5fbb2492cc5c43901abc944bc451567ff62888395fa18ba18d22a42de6edcf24",
+                      "size":  17077
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Weapon01.OZJ",
+                      "sha256":  "a05679dad48e02f4ee53b58dc4a7df36eebe85ffe735fe3e995cc80c85b1dd7a",
+                      "size":  17117
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Weapon02.OZJ",
+                      "sha256":  "b9555bbb9264b449fecd49a7a739bfec7a7eea5ee1395aea194089bcf05e9608",
+                      "size":  17176
+                  },
+                  {
+                      "path":  "Data/99bInt/Item_Wing.OZJ",
+                      "sha256":  "d57cbae0ffef9cc90297210dd148798b0b5617ae9cab37fb83c7f12d43dff761",
+                      "size":  16977
+                  },
+                  {
+                      "path":  "Data/99bInt/level01.OZJ",
+                      "sha256":  "c083a122df3a074f1890bbfd1a6197f8eb28838e37865c1cf59a692369b64d80",
+                      "size":  5047
+                  },
+                  {
+                      "path":  "Data/99bInt/level_01.OZJ",
+                      "sha256":  "c66c2367659fbec32b6f92d06adc5c171ee6213771a967691bb97b209677ff9f",
+                      "size":  13569
+                  },
+                  {
+                      "path":  "Data/99bInt/level_02.OZJ",
+                      "sha256":  "ea9b9c9e1d96be26486abcb7f03fd18b88e650868497a19f438b936ea37ebe6c",
+                      "size":  13264
+                  },
+                  {
+                      "path":  "Data/99bInt/Level_box.OZJ",
+                      "sha256":  "8dc6ca27afc7ce4f6279466dbeb233e83f136aaa3242fc1bc96d48d60bec5b23",
+                      "size":  15969
+                  },
+                  {
+                      "path":  "Data/99bInt/lock_01.OZJ",
+                      "sha256":  "cc214251925f81940f819147688f77b960f4a23c9c34e7099ce3f1d44c05b3ae",
+                      "size":  11028
+                  },
+                  {
+                      "path":  "Data/99bInt/lock_02.OZJ",
+                      "sha256":  "84eaf3db8dd6f0eaf368a68513663c88169aa5281c85504cf7d645d82d287a3d",
+                      "size":  10789
+                  },
+                  {
+                      "path":  "Data/99bInt/lock_03.OZJ",
+                      "sha256":  "57eb084efd8ae793624c80086041e32640c905c1f0785935cf72e763d3930d89",
+                      "size":  11024
+                  },
+                  {
+                      "path":  "Data/99bInt/lock_04.OZJ",
+                      "sha256":  "6d9511fdfae00cc04a70fd64f8820a079730df60d7dcb269ba1e2f18a9030f7b",
+                      "size":  10774
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu01.OZJ",
+                      "sha256":  "de4693049b8a706e19876af6031d41ac6ea11a58bb3f1fec8e09991ea04bc891",
+                      "size":  31922
+                  },
+                  {
+                      "path":  "Data/99bInt/menu01_new.OZJ",
+                      "sha256":  "7b8890b6caf15ec7d0c3a313c3e05433f57b7456a035c718d4e203e1e8b54176",
+                      "size":  32977
+                  },
+                  {
+                      "path":  "Data/99bInt/menu01_new2.OZJ",
+                      "sha256":  "5fa03287e35ef9068caac12123876d80e31429f6b5c5324086a70c99daaaf922",
+                      "size":  16336
+                  },
+                  {
+                      "path":  "Data/99bInt/menu01_new2_SD.OZJ",
+                      "sha256":  "b5a439ed250978c75cb564b91ae4b9a59c296e78023233311de1c1ef5d610a08",
+                      "size":  14413
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu02.OZJ",
+                      "sha256":  "2a531513a8c27a9594e568b3d7eb38e6d4a11061dda68f41b51008067d38ad8a",
+                      "size":  37833
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu03.OZJ",
+                      "sha256":  "b82fb4d5358dda9d65a1cd5bd964e18e7acfc460cc11ea8e50bb60f03ffc570f",
+                      "size":  33107
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu03_new.OZJ",
+                      "sha256":  "b82fb4d5358dda9d65a1cd5bd964e18e7acfc460cc11ea8e50bb60f03ffc570f",
+                      "size":  33107
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu03_new2.OZJ",
+                      "sha256":  "398dbb565e0816085c0ead3887390dd0e4967018d89c4b55020e86026ea11ccf",
+                      "size":  32739
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu03_new_AG.OZJ",
+                      "sha256":  "90d8090823b6f7ffa3621ef5ee8c416e9ed6ca455ff1c895cb9ea25381cbac7b",
+                      "size":  2875
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu04.OZT",
+                      "sha256":  "b819a76efad4cc5cb92f85042a3e37cd3b35921104533d9b7bde193ee375bf96",
+                      "size":  19488
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Blue.OZJ",
+                      "sha256":  "262e31327ee8a8959738182ff9133b1a6934d694f734ea1abe0d5af4c719382b",
+                      "size":  17286
+                  },
+                  {
+                      "path":  "Data/99bInt/menu_cashshop.OZJ",
+                      "sha256":  "9b8b2d1f5cfcde1380288e07f549b57e989ebb5be5532df90993fe3dd756444c",
+                      "size":  14145
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Character.OZJ",
+                      "sha256":  "daafed5209c0f72b03cff5083f4095134d0bdc7a2343a897bb40ccd4f4443885",
+                      "size":  12967
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Green.OZJ",
+                      "sha256":  "139a37aafd63d007c6f0d35ec2b936cd8d1765c205bd2e5b3e361b178924e0f0",
+                      "size":  17260
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Inventory.OZJ",
+                      "sha256":  "354d91d4fa7bb645936f3ae1e63fbc1b560bab8fd76a31da1a8b01b73063e711",
+                      "size":  12984
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Party.OZJ",
+                      "sha256":  "abfd8fed9cdae119a52f9c9e2d4528dec7cde539364e9da0bbd79f3d00359e80",
+                      "size":  12886
+                  },
+                  {
+                      "path":  "Data/99bInt/Menu_Red.OZJ",
+                      "sha256":  "ea8c9efe5bcf7ba301f07ff17f9789c988f197a014dcbd95c3ebbe03fa4f75e2",
+                      "size":  17199
+                  },
+                  {
+                      "path":  "Data/99bInt/message_back.ozt",
+                      "sha256":  "f8b1084c133cc6bbfcbed90b76d89ca27ce495ab9e54352260d9952c69b9d87d",
+                      "size":  159152
+                  },
+                  {
+                      "path":  "Data/99bInt/message_back.tga",
+                      "sha256":  "131ba02fb6c578bca5763471d69db5fe4bd624ae90b7fae2784563a16024b3c3",
+                      "size":  159148
+                  },
+                  {
+                      "path":  "Data/99bInt/Message_box.OZJ",
+                      "sha256":  "5701a6414e2082b0a0458f8e192c242b9d104e15ca80c57a85053b0b6ee1a000",
+                      "size":  30932
+                  },
+                  {
+                      "path":  "Data/99bInt/Message_box1.OZJ",
+                      "sha256":  "9bdda16f64eaf5db189ce9dae6315c4ff7d79c5c715e003d8495e379a1c41d87",
+                      "size":  21770
+                  },
+                  {
+                      "path":  "Data/99bInt/Message_box2.OZJ",
+                      "sha256":  "5561d3d397a0aa24a63aa120d1ba015e04ef42c77830b772b82f752ad6b4cb42",
+                      "size":  16061
+                  },
+                  {
+                      "path":  "Data/99bInt/message_close_b_all.ozt",
+                      "sha256":  "a3d3a5ac042598941181904222f0600f982b0122f1b92e552922c5b997982091",
+                      "size":  19488
+                  },
+                  {
+                      "path":  "Data/99bInt/message_ok_b_all.ozt",
+                      "sha256":  "e03d9adfcb6a4ee77b26c1311d85650f6c822979e1e7ecf7b42a7cbe00587871",
+                      "size":  19488
+                  },
+                  {
+                      "path":  "Data/99bInt/mix_button1.OZJ",
+                      "sha256":  "b4a4fc7a55f497620cb3672eff20272eef18cada46c77eee1a4c60468d1339b4",
+                      "size":  12967
+                  },
+                  {
+                      "path":  "Data/99bInt/mix_button2.OZJ",
+                      "sha256":  "f157162ee655d4c3eb29421c785b2894a75403edd35a24ab694d2147b952e4f8",
+                      "size":  12288
+                  },
+                  {
+                      "path":  "Data/99bInt/Money_01.OZJ",
+                      "sha256":  "cc13c7003d99a0b987cfca3c60a7dd4e0bee16463db1004a18e1d05fbe3310e8",
+                      "size":  14489
+                  },
+                  {
+                      "path":  "Data/99bInt/Money_02.OZJ",
+                      "sha256":  "90790c91bf312064946cde7caadec431d608c39d3ac38496bf6852feb2cefdae",
+                      "size":  14058
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_no1.ozt",
+                      "sha256":  "87a0c2ff2d27839795a3158f5d7e1133c25d95a5ed5e7b0432d25185830eebb4",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_no2.ozt",
+                      "sha256":  "2c874237a17d6e6789e69fbacef964b0e9a7484d58a5cc12da371c918b062f1d",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_no3.ozt",
+                      "sha256":  "c82edc94551e718e2114665086d798983b52c5c99228f512b4ad8da19c6c93a1",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_ok1.ozt",
+                      "sha256":  "0c6b6c97ac79ad59cb7d3a8a9e2ad6b1a0a13fd195216d5c132d5be8e1444b3c",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_ok2.ozt",
+                      "sha256":  "a9db9cf1597a7fffc69c9ac8e62379b0563d28dc937a854d1d8452810d028ea8",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_ok3.ozt",
+                      "sha256":  "6c58e2f4facd557be456a43f8ab8689223cfb0f7666f4ebe5f9e4a6171bf1f1d",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_yes1.ozt",
+                      "sha256":  "821ed7b09d0c5826a7dccab4103c0e5f338dc4b477030ba0a22790c6b67262d4",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_yes2.ozt",
+                      "sha256":  "57d55081496af4e03e4521f887f736815374579eab14e9121e801162917e4f79",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_b_yes3.ozt",
+                      "sha256":  "0507238e0887b0e4dbd5219ccd204322ad351b680e581f6d07df010063c455c1",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/99bInt/m_main.ozt",
+                      "sha256":  "c5ec3b1a9380a1c6a5f0d414d558edc7aa21130881d5e9c95fde0190349078fb",
+                      "size":  66928
+                  },
+                  {
+                      "path":  "Data/99bInt/m_main_rank.ozt",
+                      "sha256":  "93a5a66d378ef96cb0666229d182d92c1d66db5ac9d6637a2a5256b42a4d5b7a",
+                      "size":  331680
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_back.OZJ",
+                      "sha256":  "60f1d63a9b7d69356c0043cc98e7eeebc1aaa2af7a9c41648b675bdfdc1fe8fd",
+                      "size":  719
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_bar.OZJ",
+                      "sha256":  "da748c293bfd497695dbf5414c612c569cbd946b7a2375255d6289c683b5433e",
+                      "size":  722
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnalpha.OZJ",
+                      "sha256":  "f38cd7a81c12c25080cb3a1bde71e72db00b5a49570d8c6ca333466d97387a38",
+                      "size":  1075
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnarrow.OZJ",
+                      "sha256":  "76e6419015caf696b6a776a865f8d141882499bff5d906701ca1523b93ec04f9",
+                      "size":  1064
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnchat.OZJ",
+                      "sha256":  "5cfcf931224a3773917c4c0c449446028555553bf9ef8e197a8bd5c58dd74b12",
+                      "size":  1090
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnend.OZJ",
+                      "sha256":  "98b260c25e7b07bac2f6989704dd677afca20804d7587a39219ad3c5c81aeb5a",
+                      "size":  1008
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnmax.OZJ",
+                      "sha256":  "6b77e62e59247610439d7ee545a41071c9148e4633f617051ffabea698a25e46",
+                      "size":  1004
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnmin.OZJ",
+                      "sha256":  "578428e5ad6aa85e3a12305ecbe6c461d08f70fe3b858b68f7d73ff443a9eada",
+                      "size":  1009
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_btnsize.OZJ",
+                      "sha256":  "daf9abc5c9e15a877e926428b9478550efabd0570ffe9173ae9a15895da9d88f",
+                      "size":  1087
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_hframe.OZJ",
+                      "sha256":  "c64fb914c76d50f1fd1ad3c5510b150bdc33e6c5155f8969d75b818c1a71f3b6",
+                      "size":  4220
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_rsframe.OZJ",
+                      "sha256":  "e33305df1e54e36241e2b1e11a956f8e0b50ac8ea84fc2f6dde72f364f1bd6a8",
+                      "size":  1477
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_rsframe.OZT",
+                      "sha256":  "2fcfa69102259f5c982afad44a80dc44c00f7e1064161bbf20c37ddf2dbb8b56",
+                      "size":  1104
+                  },
+                  {
+                      "path":  "Data/99bInt/nis_vframe.OZJ",
+                      "sha256":  "ecf4157fd29abb01252fb8983087ff039701f7de0f7405f097044dd332b5dab0",
+                      "size":  1204
+                  },
+                  {
+                      "path":  "Data/99bInt/ok.OZJ",
+                      "sha256":  "a931e362943bb9d54d43a9af1ad75b7b05390c4340613d5856bfdc384c4f6926",
+                      "size":  5385
+                  },
+                  {
+                      "path":  "Data/99bInt/ok2.OZJ",
+                      "sha256":  "f5f7e24ebfa2b2995dd2dd747c25b42692ac4721293e643326c620fd0a2cc494",
+                      "size":  5712
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_back1.ozt",
+                      "sha256":  "a5b7f37e8198d01e189424e76c5ecf18b67cabd7152c5f447ff3fa9f4ced5e04",
+                      "size":  54576
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_back2.ozt",
+                      "sha256":  "011c448882ddb4399576f179d42f65b292f028883bb6e3c78454214bcb9560a5",
+                      "size":  36684
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_back3.ozj",
+                      "sha256":  "c99637c377e8e4a2158cf0ed81bcfa02b065b9cf72b7ceecf402928783e6028d",
+                      "size":  16433
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_back4.ozj",
+                      "sha256":  "be6d634582a0daba1bf6a46a9f51caee8e2eead15fcfc8de4ce440dd8489e801",
+                      "size":  16422
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_b_all.ozt",
+                      "sha256":  "64e6b96ddef005e735add10ab500d2e55fa54dfb128ca58094f890dcbf968635",
+                      "size":  51888
+                  },
+                  {
+                      "path":  "Data/99bInt/op1_stone.ozj",
+                      "sha256":  "7d074e4014d85b4c9f91e271efe49dde054a423fa7a26216fef41cb5f836aa97",
+                      "size":  21176
+                  },
+                  {
+                      "path":  "Data/99bInt/op2_back1.ozt",
+                      "sha256":  "ffec2f5a5209e7592b5ea8765add125736bd0252c26dfcd6ad2e01a2fc004c72",
+                      "size":  55428
+                  },
+                  {
+                      "path":  "Data/99bInt/op2_ch.ozt",
+                      "sha256":  "5e97b86d3490dd1b7918cc836e75b1ffc3ba85b3669b14c7e1596c3a6622ad86",
+                      "size":  2096
+                  },
+                  {
+                      "path":  "Data/99bInt/op2_volume1.ozt",
+                      "sha256":  "22cdda81e536f052fd718953e6b7357c065aa64fc318f2153b3a35be004c8187",
+                      "size":  5144
+                  },
+                  {
+                      "path":  "Data/99bInt/op2_volume2.ozj",
+                      "sha256":  "7306f735ac7ac7c8b083aa59f883f10f9cc3a52675d040ef7ac500d505aab085",
+                      "size":  16441
+                  },
+                  {
+                      "path":  "Data/99bInt/op2_volume3.ozt",
+                      "sha256":  "4f7237998e1e7dbea2b0c3adfc8b3c9f3982cb4a92bb4d8524706cb73ac0561f",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/99bInt/ordeal.OZT",
+                      "sha256":  "f53d885c2af58a2bf61c2cea7b570d43cdf2ac7e48cee7697394382700346693",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/99bInt/pet1.OZJ",
+                      "sha256":  "a9abd4ced1807b8643aa80ccf468b313956accbff5c28c8e96f16cd23cfb3f60",
+                      "size":  12341
+                  },
+                  {
+                      "path":  "Data/99bInt/pet2.OZJ",
+                      "sha256":  "cd0c7092ab0b7e2217d7747219c418f116e74ebed30e8f0fb3da690ed01d58e7",
+                      "size":  11879
+                  },
+                  {
+                      "path":  "Data/99bInt/Progress.OZJ",
+                      "sha256":  "097436389ce352ba63799f7cf94ca779e35ff1e9778395d658b28a6d2c2e477b",
+                      "size":  3642
+                  },
+                  {
+                      "path":  "Data/99bInt/Progress_Back.OZJ",
+                      "sha256":  "69f51d26047aed4515d78c705864d7508d2046861081a8a295a6be33f4a4bbb6",
+                      "size":  4374
+                  },
+                  {
+                      "path":  "Data/99bInt/quest1.OZJ",
+                      "sha256":  "c94914968e23e7bd06d90d6c1658dcc4562b71994263c1435be2ed97f8ebd90d",
+                      "size":  15058
+                  },
+                  {
+                      "path":  "Data/99bInt/quest2.OZJ",
+                      "sha256":  "cb572a8646b616982554ce7e9950771f779ad039223e95d084168bd77369bb40",
+                      "size":  14832
+                  },
+                  {
+                      "path":  "Data/99bInt/Relic.OZT",
+                      "sha256":  "20023ef5ef20ef65279ad3aae86a359e12e78d4dc65cc12f9eb1b923ce15b57d",
+                      "size":  832
+                  },
+                  {
+                      "path":  "Data/99bInt/repair_01.OZJ",
+                      "sha256":  "da1200da77aa133db52509e7909049fa1021e577fd82175e42c3ab7344f0e313",
+                      "size":  11033
+                  },
+                  {
+                      "path":  "Data/99bInt/repair_02.OZJ",
+                      "sha256":  "2619a3406587b0e2862fcdb1ae57ad3f8c4f0d07fbd409411f5640ee31cc7004",
+                      "size":  10822
+                  },
+                  {
+                      "path":  "Data/99bInt/sell_01.OZJ",
+                      "sha256":  "b0c79d04dbf7dc65f205125abd52033b9b3d4b85ce166457ae014b45ad5d6d5d",
+                      "size":  11030
+                  },
+                  {
+                      "path":  "Data/99bInt/sell_02.OZJ",
+                      "sha256":  "e2535e73cb88d24e072d7814ffe2e90abbfeb7aa35a0711abfca44aad70f3d83",
+                      "size":  10847
+                  },
+                  {
+                      "path":  "Data/99bInt/setitem.OZJ",
+                      "sha256":  "a471819973a88fa31b193cfe6345d0f092ff574e1adb9dad4202c13b45a4be97",
+                      "size":  8810
+                  },
+                  {
+                      "path":  "Data/99bInt/Skill.OZJ",
+                      "sha256":  "5c1168d6f6089cb95e009e3642b721ac06cbe1be4e4a57ca0fc5a0a6b9545419",
+                      "size":  48317
+                  },
+                  {
+                      "path":  "Data/99bInt/skill2.OZJ",
+                      "sha256":  "497b4731fe3923155994b3942d12f4808f867e394c8f21fa6189d62fb7f8e095",
+                      "size":  40840
+                  },
+                  {
+                      "path":  "Data/99bInt/text_button.OZJ",
+                      "sha256":  "97d78574f0b3a5bbceeca70f75a461762613f32471186af7a4ba8f098c185067",
+                      "size":  8901
+                  },
+                  {
+                      "path":  "Data/99bInt/Trading_line.OZJ",
+                      "sha256":  "651526ad289f912c0acbae56f8dd6c7207490883ac4ad8250ddd670512aefdbd",
+                      "size":  7084
+                  },
+                  {
+                      "path":  "Data/99bInt/webzenmail.OZJ",
+                      "sha256":  "f48c2d659de540cb2c12e0e3cba8e757486d418adf7bd421d6d082277bf8c724",
+                      "size":  14448
+                  },
+                  {
+                      "path":  "Data/99bInt/win_button.OZT",
+                      "sha256":  "65f75a307e2bbc6061e420ad509d24faff9e43f0605cb39a01be543c3a23b54e",
+                      "size":  3184
+                  },
+                  {
+                      "path":  "Data/99bInt/win_check.OZT",
+                      "sha256":  "d557afa505b055830c8bb182137da7bf39fd9159b3a640478a67cddb09729361",
+                      "size":  148
+                  },
+                  {
+                      "path":  "Data/99bInt/win_letter.OZJ",
+                      "sha256":  "9aecf663df8ac08d5c46d257b8d06f0910ecabef072e0b84cda2fcc31a6b521f",
+                      "size":  7968
+                  },
+                  {
+                      "path":  "Data/99bInt/win_mail.OZT",
+                      "sha256":  "d392eca0c6c73b6d0c7dd2c0edced6715b834cf5f0bb89ad3f4992cdcfa68afe",
+                      "size":  1036
+                  },
+                  {
+                      "path":  "Data/99bInt/win_man.OZJ",
+                      "sha256":  "f5738a23e9bea915a2e60c7f02346a3f1d77b29c04301c24182d8fc7bf88d8cb",
+                      "size":  9139
+                  },
+                  {
+                      "path":  "Data/99bInt/win_mark.OZT",
+                      "sha256":  "e4d13cf04225b69cab0c3bf376357a9490fddb6c61f53f316023ff6dacf47d7b",
+                      "size":  144
+                  },
+                  {
+                      "path":  "Data/99bInt/win_push.OZJ",
+                      "sha256":  "c770d20501564cc41cd3cf7f7a790905022576323032067fb9bdcd7b28ed4255",
+                      "size":  10635
+                  },
+                  {
+                      "path":  "Data/99bInt/win_question.OZT",
+                      "sha256":  "8620965782aa29d796cdbe1f30e1ab6e2545956225130848edaacabd025f3824",
+                      "size":  1072
+                  },
+                  {
+                      "path":  "Data/99bInt/win_resize.OZT",
+                      "sha256":  "0f40762895f9409cddd724fc54e6400af9652f90c640ef1f98c260f86a50bba1",
+                      "size":  372
+                  },
+                  {
+                      "path":  "Data/99bInt/win_scrollbar.OZJ",
+                      "sha256":  "f4269dc75e5f3c0d05c2aff0233e958e8b7486491105804030b41aa29125bcaa",
+                      "size":  8350
+                  },
+                  {
+                      "path":  "Data/99bInt/win_size.OZJ",
+                      "sha256":  "6062dca6eaa21223d4263741d27bb9aa50a2825fb46b182a4bc0bd0df10fd791",
+                      "size":  8371
+                  },
+                  {
+                      "path":  "Data/99bInt/win_titlebar.OZJ",
+                      "sha256":  "edf663437d92aede1d91873f0b6c1eebcdf508ecd0edc2b8e78013c0cf25285f",
+                      "size":  7710
                   },
                   {
                       "path":  "Data/Custom/Interface/0account_new.ozt",
