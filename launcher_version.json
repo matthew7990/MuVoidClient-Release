@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "date": "2026-02-21",
+    "changelog": [
+        "Versión inicial del Launcher"
+    ],
+    "files": [
+        {
+            "path": "MuVoid Launcher.exe",
+            "sha256": "5c2896baee30f51e3c8a53d71bd18fea6c5d166f8f28cd70d64ce192bf672e65",
+            "size": 12784128
+        }
+    ]
+}
