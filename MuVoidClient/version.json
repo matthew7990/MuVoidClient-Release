@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.6",
     "date":  "2026-02-21",
-    "commit":  "87247ba",
+    "commit":  "52bdb6d",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "f2fe045981dd0945784bb1a28c28256f1396a9ad2e3da49a1d613c6d61928715",
-                      "size":  5680128
+                      "sha256":  "9ea601b5478d833d3bb16c2c5ba93522d23631aa6881d3942843a8cdb8be54e6",
+                      "size":  5681664
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -57,14 +57,34 @@
                       "size":  20
                   },
                   {
+                      "path":  "Data/Custom/Interface/0account_new.ozt",
+                      "sha256":  "d357d56bbd7b3f007b1a8dffb26c764c0299597ec7575320487a0d95bdfb5d94",
+                      "size":  216048
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/0box.ozj",
+                      "sha256":  "6e03c212785b36be976c73d41f1096233d65a17d510d64f9ad1da1b2a21ecc7f",
+                      "size":  8798
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/0on_botton.ozj",
+                      "sha256":  "47775cb3dc159db721cf047ff4b2d5e7b7064128f87fb4aabcee7199f67bb78c",
+                      "size":  5986
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/0on_botton2.ozj",
+                      "sha256":  "64141e7a71cd37f4ddb2b459e0fa90482711354d142a6fbab6588ca183078e2e",
+                      "size":  6218
+                  },
+                  {
                       "path":  "Data/Custom/Interface/2SkillBox.ozj",
                       "sha256":  "b9136230905965c06072c90bca58de53734b94e88284644d2c75c77c224c3ad6",
                       "size":  11440
                   },
                   {
                       "path":  "Data/Custom/Interface/accept_box01.OZJ",
-                      "sha256":  "e88bc41445bafe1762cc85ba0c154467a58268febe29cc959299214cecadab76",
-                      "size":  12554
+                      "sha256":  "4d4b9f239330b1add0c03a44b9eec1440e11328940053f07e783f3e9d9cd072f",
+                      "size":  5995
                   },
                   {
                       "path":  "Data/Custom/Interface/accept_box02.OZJ",
@@ -72,9 +92,29 @@
                       "size":  6171
                   },
                   {
+                      "path":  "Data/Custom/Interface/anuncio.ozt",
+                      "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                      "size":  0
+                  },
+                  {
                       "path":  "Data/Custom/Interface/arrow.ozt",
                       "sha256":  "cf28cb8998657d56c9004f1185e40224ad2a6b2a39ebd3bb23b564ed68ba28f9",
                       "size":  90052
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/arrow_1.ozj",
+                      "sha256":  "6c3d87545d8f2e7c3cc0c3a69b1abe9f0343be4532a7cfcaddf10eec551551d6",
+                      "size":  6017
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/arrow_2.ozj",
+                      "sha256":  "14d6b2bcef41485e6e53048abf6ec998d92350664c88b77c1d037a45da23364a",
+                      "size":  6621
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/arrow_3.ozj",
+                      "sha256":  "07c23f54d378618a08e364545c82750d1843be1fce1a5bdc6a0ecef54e8a03ed",
+                      "size":  6572
                   },
                   {
                       "path":  "Data/Custom/Interface/auction-ico.ozt",
@@ -83,18 +123,23 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/back1.OZJ",
-                      "sha256":  "fe8535de5ca3666e3f614ee277406c6dcec1c83c12ea98c1a95e217381696101",
-                      "size":  13337
+                      "sha256":  "4311906e605c16072a45b17c7189f3301410e7c42d265d936e096f2b09f56b53",
+                      "size":  100426
                   },
                   {
                       "path":  "Data/Custom/Interface/back2.OZJ",
-                      "sha256":  "d81538b843a7cddd2e6a7bb41dbe053e044be6d9c17c1092618bd42fd0076bf0",
-                      "size":  13568
+                      "sha256":  "c89d47c803ff06ab563aba201d84b5c6d21c3b329fb09beabc4a3929b703f09f",
+                      "size":  97624
                   },
                   {
                       "path":  "Data/Custom/Interface/back3.OZJ",
-                      "sha256":  "95b2dcf53d6b72bcf61508c67290dd8a02ade783479c1e3d0d8a20267d31bfe6",
-                      "size":  13691
+                      "sha256":  "6b13d0b585c911b77aae2b093fbcc7539a8833e0a0b50968238d2c7ca1a4b2c4",
+                      "size":  13657
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/back4.ozj",
+                      "sha256":  "403d864ebab893de505f36a2d1c5e6648f9efba2bea2eccd1e5a4afc425551bd",
+                      "size":  12034
                   },
                   {
                       "path":  "Data/Custom/Interface/Banner.ozt",
@@ -142,6 +187,36 @@
                       "size":  150052
                   },
                   {
+                      "path":  "Data/Custom/Interface/bkcloud.ozj",
+                      "sha256":  "1cf06e6f383f89906fbf65a8f2d1bc8c2b4866c2764c878ddbe7a6c4c275e7cf",
+                      "size":  10298
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/bkmoon.ozj",
+                      "sha256":  "86ce4377a15de88d90829a30028bbb4600313f57c8ab49cb01981091cf13b4dd",
+                      "size":  9036
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/btn_pshop.ozj",
+                      "sha256":  "a21fa5a18aeb06efca4a69b1c31c6ea2b40444301529cfc9987f8dc74c5d4deb",
+                      "size":  12747
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/btn_pshop2.ozj",
+                      "sha256":  "603588772ab95e617aaf7b0a399ff8cb6df6c598e844eb8803673a3de1373255",
+                      "size":  12736
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/btn_server_99b.ozt",
+                      "sha256":  "7ee9a3fd881c2ef471ee72bfa3fe3a2011348709640307869c4171a4af40a8ab",
+                      "size":  1048624
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/btn_server_s3.ozt",
+                      "sha256":  "9a9e9d817150ff0570b8fd6c42a14aae02262e0749bad402b1bb8c370710f744",
+                      "size":  1048624
+                  },
+                  {
                       "path":  "Data/Custom/Interface/bt_reset.ozt",
                       "sha256":  "4b231995d25ffacf4940be99e228d5b3c7436f58fe06461db4d9b1e482f4ac1d",
                       "size":  2932
@@ -162,6 +237,21 @@
                       "size":  7104
                   },
                   {
+                      "path":  "Data/Custom/Interface/buy_01.ozj",
+                      "sha256":  "9e6130346054d9c05645b9cabc9ed2aa86c53f3e9328bb15c3be8a654e9875ab",
+                      "size":  5932
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/buy_02.ozj",
+                      "sha256":  "c72e07a622e91b33bbb3aaf0237c962a77760631f15261ccfc239164a81e2a8f",
+                      "size":  5888
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/buy_vip_button.ozj",
+                      "sha256":  "085725891580e145c30d1689288a4a667c63a2c6453e8bf4756f559bbaec3784",
+                      "size":  17655
+                  },
+                  {
                       "path":  "Data/Custom/Interface/b_command01.OZJ",
                       "sha256":  "6839e40ea1b96503c606c143cac5954e3bab46ff22847f47d781ec88ac2d4226",
                       "size":  10737
@@ -173,17 +263,17 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/b_connect.OZT",
-                      "sha256":  "7007576365a9a080d4ca27846a06f810a6040ee8ce45fdcb142ae92745b1009b",
+                      "sha256":  "301ded0a072e52a08d7164c5e7820bbea92e4147bf0c77dcba6cea37ae6d45f5",
                       "size":  25968
                   },
                   {
                       "path":  "Data/Custom/Interface/b_create.OZT",
-                      "sha256":  "bbb01861e12699bf64bf13533c76906b7d29c53512f70aad205222cba7fce23e",
+                      "sha256":  "e21714c018ccb5875e6477dc3f2cb44868c4802c94d077ee28ffae195091ceb7",
                       "size":  25968
                   },
                   {
                       "path":  "Data/Custom/Interface/b_delete.OZT",
-                      "sha256":  "d3fd1b6c8fda6f9e9d02418fafaad693449a1bb4d149a33c2291ba73174d82d6",
+                      "sha256":  "3f8389fd069e6b34da7e913ec449d4098d14f309e70efe1e634d15b8d4ebcf81",
                       "size":  25968
                   },
                   {
@@ -207,9 +297,39 @@
                       "size":  7697
                   },
                   {
+                      "path":  "Data/Custom/Interface/cface01.ozj",
+                      "sha256":  "98217306f8e614374594f8c4c7ec478d985477ba924e65484d76d15a9099b276",
+                      "size":  36811
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/cface02.ozj",
+                      "sha256":  "035ee2fe32efd1ac9bfca504b448d9b00fd10605d2092e94acf4cfdc9aeba569",
+                      "size":  12810
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/cface04.ozt",
+                      "sha256":  "44f2ce2d372086e58ed9660a149b4d98b2ac840e862fc0ec5a414033e1ddf3f6",
+                      "size":  1072
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/cface09.ozt",
+                      "sha256":  "bb8ddc4f20744a18da0f9c0d8381e2914b5cc463c236f51d401ba23e3dbfbabb",
+                      "size":  8240
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/character_back01.ozj",
+                      "sha256":  "7761f26626e541342b30a7e927b1615181a10f4e9985e11989ac2d282786658f",
+                      "size":  72028
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/character_back02.ozj",
+                      "sha256":  "91e2bd3ea8b4cfbed276664268d3520a0ebd19813d771a996ff8f72a2fdd82d2",
+                      "size":  76885
+                  },
+                  {
                       "path":  "Data/Custom/Interface/character_ex.OZT",
-                      "sha256":  "db23ec34680cae117b8025fbbc2e1ca16d8dccd285609051303018654b9a8ccd",
-                      "size":  25510
+                      "sha256":  "2e7bc6a173649fc39cc011f39e53ec5c13bc29ec77e632bc05ecb6d3717cf097",
+                      "size":  41584
                   },
                   {
                       "path":  "Data/Custom/Interface/character_ex2.ozt",
@@ -223,18 +343,33 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/cha_bt.OZT",
-                      "sha256":  "3901004a78d4b3a00441e2f7a20cf4b62a02b5dcc19c5f99c896b21a822b7e80",
+                      "sha256":  "52fab0fff2e07a30c27c55c4ec7efa77723d6b1d846921304c77a2ede57390d0",
                       "size":  44976
                   },
                   {
                       "path":  "Data/Custom/Interface/cha_id.OZT",
-                      "sha256":  "03b090cf9dc55b001c42fc90146b19f5e9e55cde97e4d5e2255710e6b292ab9f",
+                      "sha256":  "dfb6f5db029d974e9cd2bfb676b622491b5e6c0a4ef83fbd34984f3ac836fa22",
                       "size":  52640
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/cloud.ozj",
+                      "sha256":  "395ef1e37771502ffab80bda62676d732dcfb1c14432d10e6850254ec9917d55",
+                      "size":  11623
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coins_info_interface.ozj",
+                      "sha256":  "76e627c92b90a0babb6fc9c13917256f18d9492b875149a3fe97b0d0d0860d1f",
+                      "size":  9439
                   },
                   {
                       "path":  "Data/Custom/Interface/command.ozj",
                       "sha256":  "2d385a6fccf3f4a735f22ee36ac8ac83c07d44eaf54572021a8c330d3885cafa",
                       "size":  122604
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crown.ozj",
+                      "sha256":  "e769eae510d8c8fbb9f04042c4d60494c7baa2e5692f72a1127e8c47f413368c",
+                      "size":  12490
                   },
                   {
                       "path":  "Data/Custom/Interface/cr_gr.OZT",
@@ -292,6 +427,11 @@
                       "size":  4144
                   },
                   {
+                      "path":  "Data/Custom/Interface/cursorid_wnd.ozj",
+                      "sha256":  "5af960931cb46252b328af23c5a1c8356c78ae8d7639a29e79035fc64f53548f",
+                      "size":  6396
+                  },
+                  {
                       "path":  "Data/Custom/Interface/CursorLeanAgainst.ozt",
                       "sha256":  "96f2034d2ff677c48bb14924553eafa727bb17cbfb32628bd2f0296127882ebb",
                       "size":  4144
@@ -317,14 +457,124 @@
                       "size":  16432
                   },
                   {
+                      "path":  "Data/Custom/Interface/darkglove.ozj",
+                      "sha256":  "d3a034eacfd490d0c0d54b9000dee083e78ef4ba04becd6c9d3577f8fbc43dfe",
+                      "size":  11829
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darkload_eye.ozj",
+                      "sha256":  "75466247857bfed50e55d4040cafa8e96dd820a4f009362e2ebbaf707fa97340",
+                      "size":  1703
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darkload_face.ozj",
+                      "sha256":  "68d83cab521b650ada64cbe89f3c50aaa7fee06f69070551d07a977fbad31fbf",
+                      "size":  58440
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darkload_hair.ozt",
+                      "sha256":  "c1fb50e9194e4bdef5ef27505461f2e7fd78f20cdda5eed3e23dc896c16378d6",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darkload_hair02.ozt",
+                      "sha256":  "a7b214761a570894cc95f1b1126b355f4999d97ab52c9624a7879536c0705419",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darkload_upper.ozj",
+                      "sha256":  "90061dd1b3f889a56b06df71b772ee0e0db197e85299dfc238d1a8f1843abf4c",
+                      "size":  72332
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/darklord.ozj",
+                      "sha256":  "159f625b74a3911fd419402a9e142ef0e4c1ca63d58cabca017fc88f5a2fffc2",
+                      "size":  22878
+                  },
+                  {
                       "path":  "Data/Custom/Interface/deco.OZT",
-                      "sha256":  "a5549924d93a0195edbfab51d19872bb85e85fdaefdcb2bdb6e7e14ca0a2855c",
+                      "sha256":  "9546214aa55a652113bfafab60ee14af9ec887b80081fc41bce4e6263e8f5a33",
                       "size":  77916
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/deep_wall04.ozj",
+                      "sha256":  "83f8dd0de45314d66f7571bc2cea47044df529b73d6f68aea5f9674d6710f290",
+                      "size":  24284
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/deep_wall09.ozj",
+                      "sha256":  "93bf06e2a27f2d897b2c0c1f25b7e8de97630c57006cae3ebb8055f0b190d220",
+                      "size":  33159
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/delete01.ozt",
+                      "sha256":  "c85b4282a97c018661afd3ff3f16b614552e40ebd32f171e2b87bf6b54a86f86",
+                      "size":  43724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/delete02.ozj",
+                      "sha256":  "9830fa90bfaf3982f0ca3fd6d3e08ff5eccf48dab627cf5d3134440dcb447e24",
+                      "size":  10303
                   },
                   {
                       "path":  "Data/Custom/Interface/delete_secret_number.OZT",
                       "sha256":  "43feaf594a448a4d148bb74b7f5d4d48dc279308cd34bca87255170c682ce00c",
                       "size":  15780
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dialogue1.ozj",
+                      "sha256":  "1749a9b39ca7c566d34680d9f5d1046964cd0d81256ff1464291090e31f94c2b",
+                      "size":  14757
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dialogue2.ozj",
+                      "sha256":  "c3c358b5dccb495ec77381d68ebad919870d59c2f7e508fbda2172682f749fba",
+                      "size":  15575
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dialogue2_1.ozj",
+                      "sha256":  "c4e1ad3ae1fe3bcc295b205658a1975fcd4906e7b0a184d07ba2802df281667c",
+                      "size":  5230
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_arms.ozj",
+                      "sha256":  "3371ad475bf95172ebaa51544cbd7e0b0cf6f15fc55c724e1fe6e91b341da003",
+                      "size":  23680
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_body.ozj",
+                      "sha256":  "20c2589be9f1a847ba2b7096fcb53cda121861356340af71a9e979c76f7f66e9",
+                      "size":  16515
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_collar.ozj",
+                      "sha256":  "24b92d88b2607d17140483d4171ddf2967f561346e5ad6174cdb07b52260e0cf",
+                      "size":  13584
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_eye.ozj",
+                      "sha256":  "aa364b22a5a5b03a1e7db93b838db1ee953a002cde196d6c0b1bf1a1f2fdbfcc",
+                      "size":  1672
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_face.ozj",
+                      "sha256":  "f3d23e18c8db08fcf08b307c319333390181a6655170599b52a1882ba25b5a55",
+                      "size":  59338
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_hair1.ozt",
+                      "sha256":  "341d1b9b1e63cbc4e297a802b760f8ed7dcaa92f0a0081fefd9fa32cd94be6f9",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/dk_hair4.ozt",
+                      "sha256":  "2a773452ab2c9bab0c14947f59157832bec85a334b447a71ee0e28248a6bba16",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/donate_button.ozj",
+                      "sha256":  "cb52a7eed906985926a48f1c630bb29aa69259e8deac5e04e214e37bba325410",
+                      "size":  1963
                   },
                   {
                       "path":  "Data/Custom/Interface/doorCL.OZJ",
@@ -377,6 +627,46 @@
                       "size":  412
                   },
                   {
+                      "path":  "Data/Custom/Interface/duelwindow.ozj",
+                      "sha256":  "700898e9b0e7a595991db6632a566a08dc10da44d4fbc124423fc0b76b85e6fe",
+                      "size":  18631
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/elf_body.ozj",
+                      "sha256":  "2aeb4a5a40e07a8a855594dd0515a9cdcc2ffc027d7a71a76b28ebfc38c0b570",
+                      "size":  36058
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/elf_eye.ozj",
+                      "sha256":  "0e8a14e4ebcee677303e4914fa6f16dd00dda6fbcac3b8f5af709a66d7211978",
+                      "size":  15983
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/elf_face.ozj",
+                      "sha256":  "4095762887ba6b1d3a8f9019cc442968d0fd9307aea722feb22ec05852b8750a",
+                      "size":  70429
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/elf_hair.ozt",
+                      "sha256":  "022afcbca9c821ed6ebd3b5f52133eec0babf45fd8efdbbf634ff91f63af0757",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/elf_t.ozt",
+                      "sha256":  "8a5d37d020078a3cdf5847861888c6e0a54d06ef6f009ad59dd94efa77aaa70a",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/emoji.ozt",
+                      "sha256":  "ff736f32bb115dd3051b25cd06cb902720e6671d23d9461f78d9b2a79ea07e8b",
+                      "size":  1085492
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/emojis_button.ozj",
+                      "sha256":  "18f00dca0c44b440722e74ecba572eaa240b04b65c3a119bcd302744a56238f7",
+                      "size":  1672
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Exbar_Master.OZJ",
                       "sha256":  "efb4230f485da568efdacfa29cabb899695c846c37de2c86588d54d24c94c3fc",
                       "size":  12943
@@ -397,14 +687,69 @@
                       "size":  6066
                   },
                   {
+                      "path":  "Data/Custom/Interface/face01.bmd",
+                      "sha256":  "1faa8f915c760d2e4114699e38a9fdbafe7f9ced44e1f8b356c88c6d302a20be",
+                      "size":  139305
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/face02.bmd",
+                      "sha256":  "596085730b41d76d83d6b35e68973029c7c7cf3b240fe9369010248f79cbb12d",
+                      "size":  145841
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/face03.bmd",
+                      "sha256":  "00be10c555fd8201a1cd1256536e3676fd2f2a56105267d89333bd21f8b8808d",
+                      "size":  177161
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/face04.bmd",
+                      "sha256":  "b9f354096ba12e1b5496d275ec5bfd8200d240783b61a3bd22bb2ece65053fa6",
+                      "size":  185473
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/face05.bmd",
+                      "sha256":  "b7ec07e20efe46e7a6453def8031f8019573482b2d9c6f2b9c579a64ceb99cb0",
+                      "size":  149689
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Failure_kantru.OZT",
                       "sha256":  "24a2f4b36943fdfb8fa010339f7df55e605efbd59e21648a9f4ee74d86bb8705",
                       "size":  147360
                   },
                   {
+                      "path":  "Data/Custom/Interface/flag_chs.ozj",
+                      "sha256":  "62e5d081e601412290299de847438365491260bfeccbe9e5867978d898db4748",
+                      "size":  5988
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/flag_eng.ozj",
+                      "sha256":  "12b20d364f77c8eedc7361d4b5a1a80aca0c0cf2c6dd09b869c7dec5aa09bf34",
+                      "size":  12313
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/flag_por.ozj",
+                      "sha256":  "f88183e9a35dc0f80d2f31d5ba7c057344b2263088f34c93bc19644ad01d5bac",
+                      "size":  10912
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/flag_spn.ozj",
+                      "sha256":  "ca751fd9178a7471cfcacec4075311d739b634dd04f28fda619c65f5a55f9325",
+                      "size":  7518
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/flag_tag.ozj",
+                      "sha256":  "e889778f9c6d84442c97bba51d6965891263b1caa610f6fa056e56de84109f1c",
+                      "size":  8623
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/flag_vtn.ozj",
+                      "sha256":  "c7179fe7e5e7cc7cb8fd548352f1f5622a895a2fc2687399b07d04c66c90db46",
+                      "size":  5676
+                  },
+                  {
                       "path":  "Data/Custom/Interface/FontInput.OZT",
-                      "sha256":  "978fb6f0270242e23a22bc131fdea9059b0420e3382d160bb1df04c00db0af57",
-                      "size":  32816
+                      "sha256":  "94e8f8db2a91d8965e752c65ae52695c5bf0369aa14e1d407c0eb6d49161b0c0",
+                      "size":  65584
                   },
                   {
                       "path":  "Data/Custom/Interface/FontTest.OZT",
@@ -467,9 +812,34 @@
                       "size":  12144
                   },
                   {
+                      "path":  "Data/Custom/Interface/grass2.ozt",
+                      "sha256":  "87440a49d8df07120224cc95fefa94d2ef4633a5874f7fc1d7de0880554f0162",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/ground.ozj",
+                      "sha256":  "7bf842eb3e35c3aa64409af2098edd496375015129449c00c8cc1cd74ad81ed9",
+                      "size":  3571
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/guild.ozj",
+                      "sha256":  "d9a05b4e1071e00aba67905f0c0c4f7c2a212dd27dff680fa4000f7e41e2bc40",
+                      "size":  6321
+                  },
+                  {
                       "path":  "Data/Custom/Interface/guild.OZT",
                       "sha256":  "b659c6fbc403d7f4a2ac4d8068c90ec1664519894a939946fca3ac8d01a5fb7e",
                       "size":  304
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/helper_button.ozj",
+                      "sha256":  "12749071dd4b147bb1e7ff02b58f238b794fae627c55e9f6db5e51894277cc78",
+                      "size":  17536
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/help_button.ozj",
+                      "sha256":  "a82b56530d9211d610f2f269c7a1369d77db3b8859823c24ce3abce441ccda83",
+                      "size":  1605
                   },
                   {
                       "path":  "Data/Custom/Interface/Hero.OZT",
@@ -682,14 +1052,39 @@
                       "size":  1720
                   },
                   {
+                      "path":  "Data/Custom/Interface/info_button.ozj",
+                      "sha256":  "5b5c35ca61ebd8aed40b7649ab196cb14402578f15eb7733f94a9866485e5827",
+                      "size":  1602
+                  },
+                  {
                       "path":  "Data/Custom/Interface/info_lock.ozt",
                       "sha256":  "6849e767677b228b19df11f7e01522a73d6dc046df131b3b258658abe1fb3f8a",
                       "size":  1724
                   },
                   {
+                      "path":  "Data/Custom/Interface/interface01.ozt",
+                      "sha256":  "9daa8846a1d93df88684b7b1c9eb5a636ea251c3371bc9d58ec6b5ea5d61961f",
+                      "size":  28464
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/interface02.ozt",
+                      "sha256":  "9a9147e2688a3e6e955b8dbff4fd6dd86265153cb42c3f8ba32bc52c9fe377e5",
+                      "size":  108592
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/interface03.ozt",
+                      "sha256":  "ece88fb52280bdac7c88a017559d6cae638c5a4bd799ea08ed77feaffb335f74",
+                      "size":  94176
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/interface04.ozt",
+                      "sha256":  "eb6ab5089389b6da66515609b7c678bfcb30acf4a702f1b8083d8a43d675b162",
+                      "size":  72752
+                  },
+                  {
                       "path":  "Data/Custom/Interface/InventoryBox2.OZJ",
-                      "sha256":  "8e84c442dc58413e1abe507e341624564d01da705c910303a90e3c6290de7ac9",
-                      "size":  12351
+                      "sha256":  "34e4270c7ab05964de8e26dd04b2d74741db75a721ebb0b12b991464cc4709cf",
+                      "size":  5870
                   },
                   {
                       "path":  "Data/Custom/Interface/in_bar.OZT",
@@ -768,18 +1163,73 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/Item_Back02.OZJ",
-                      "sha256":  "42d0257096f7b7c9673bb96bf62cf6273dcb13e0744d2676b71f3c81dbcdbd7b",
-                      "size":  34070
+                      "sha256":  "ac8620a4be5dbfe0d0c60676610bb889c7864b060118acb9fa28be28ab93a11c",
+                      "size":  29597
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_boots.ozj",
+                      "sha256":  "a4d5105800cec2f3bd1203077061a25ebabd763bbb50602b7be1fb3e86622d95",
+                      "size":  6293
                   },
                   {
                       "path":  "Data/Custom/Interface/Item_box.OZJ",
-                      "sha256":  "d2bab5e1130d3d0491f5ec0a67400f258501387b118066bf602aade2d8c2bb86",
-                      "size":  13459
+                      "sha256":  "e089b321c4a96f4f95e623c3128fa8bf1ce8581eeaa537c10d96c308350ba91f",
+                      "size":  5500
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_cap.ozj",
+                      "sha256":  "744667a1b2feb53ad7f47694a6dd06fea731c0ebaea2d6d5d0f03e105c9f5308",
+                      "size":  6312
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_fairy.ozj",
+                      "sha256":  "8bdcb88a3662777e8d6b20735ed1e8ec47b45764d2c0a25eb0be18cf95bff6c9",
+                      "size":  6395
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_gloves.ozj",
+                      "sha256":  "554851c08aea029d04ba60695cc3b72d4de67fb1dcaaed883e8b8fac52e7e14a",
+                      "size":  6441
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_lower.ozj",
+                      "sha256":  "935c9dd4a354f0152985ff04f711e2a333b6b6c6ae0b61a00e7685f4af6fc582",
+                      "size":  6479
                   },
                   {
                       "path":  "Data/Custom/Interface/Item_Money.OZJ",
-                      "sha256":  "4424deb8c4f073dee249accd36d6b5971b6219c61909d091edacbe50210c2746",
-                      "size":  15429
+                      "sha256":  "87ad8c8799c8de4d54ae8094c0f367007d89eaff05ac21ae519d634409ef259a",
+                      "size":  6759
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_necklace.ozj",
+                      "sha256":  "33bf83d34e8a410e0a89584c355e91e4a40bbb8da11dc1cb0172bbeaffc00f5c",
+                      "size":  5251
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_ring.ozj",
+                      "sha256":  "c90e8d44c923b49524025bc1e3d8bbb7db5833007fd46f1b248eeb20ecc3959a",
+                      "size":  5230
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_upper.ozj",
+                      "sha256":  "4fd7bd13e7212839a8f5dd12d9d208c718a62112c1dc4a00a16a5489f9278fd3",
+                      "size":  7413
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_weapon01.ozj",
+                      "sha256":  "1b7809dd57fbf2abdb203b856f467b7b903b96e04ce45c278b6ab44c82e8b18e",
+                      "size":  7381
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_weapon02.ozj",
+                      "sha256":  "aa2c640cd094769c7eaf8a60c5d48be929bab4f40e450156b0a643ab064fcbe5",
+                      "size":  7252
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/item_wing.ozj",
+                      "sha256":  "b62ab344f2cc8091d512c8a8c80c3d90898c66fc577d54ae96bbaabc27f7d8f0",
+                      "size":  6977
                   },
                   {
                       "path":  "Data/Custom/Interface/i_attack.OZT",
@@ -797,9 +1247,59 @@
                       "size":  576
                   },
                   {
+                      "path":  "Data/Custom/Interface/level01.ozj",
+                      "sha256":  "c083a122df3a074f1890bbfd1a6197f8eb28838e37865c1cf59a692369b64d80",
+                      "size":  5047
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/level_01.ozj",
+                      "sha256":  "ae9cf7c5f5022685999f726c40c8f5bd2103896eb6879b05e87696114419dfe3",
+                      "size":  6244
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/level_02.ozj",
+                      "sha256":  "2d4cbe0ac1f322dc8416c78382def61e74c57cb11356c7c25c910e287f17ca41",
+                      "size":  6222
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/level_box.ozj",
+                      "sha256":  "622f99ede40004e07d51fb0d9b53f7cf775e30b4760918c114fa9ed747c75dd0",
+                      "size":  20361
+                  },
+                  {
                       "path":  "Data/Custom/Interface/loading.ozj",
                       "sha256":  "b50f7eefd5dfd1665b5f0549e46a9f4dcf2a7b128fdaa6f89ba20a7844975511",
                       "size":  384974
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading01.ozj",
+                      "sha256":  "65eb623c910f002a4dbaa0f6bb39764d94ef0573a40ef7f7c6253da7ab23dedd",
+                      "size":  41345
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading01_s3.ozj",
+                      "sha256":  "65eb623c910f002a4dbaa0f6bb39764d94ef0573a40ef7f7c6253da7ab23dedd",
+                      "size":  41345
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading02.ozj",
+                      "sha256":  "68e4e4fc639ba79e15d2a96eb8decb531869c6923a01f2731192be7f7ee24f21",
+                      "size":  41762
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading02_s3.ozj",
+                      "sha256":  "68e4e4fc639ba79e15d2a96eb8decb531869c6923a01f2731192be7f7ee24f21",
+                      "size":  41762
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading03.ozj",
+                      "sha256":  "fa0ce2cd07dce89242fef3d98d5b4574f33fcc1cb562a0372d64c279425d9007",
+                      "size":  39711
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/loading03_s3.ozj",
+                      "sha256":  "fa0ce2cd07dce89242fef3d98d5b4574f33fcc1cb562a0372d64c279425d9007",
+                      "size":  39711
                   },
                   {
                       "path":  "Data/Custom/Interface/lock_01.OZJ",
@@ -823,18 +1323,73 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/loding_cancel_b_all.OZT",
-                      "sha256":  "43347d66ff90ed4adb7d816fe393e6b2dd54c04efa239836240a466a728ca671",
+                      "sha256":  "a38cdc5694182a2adb2dc5402c0dec93ef7ecb68166e625718baebd08f869407",
                       "size":  19488
                   },
                   {
                       "path":  "Data/Custom/Interface/login_back.OZT",
-                      "sha256":  "892b13f325a3f1ea61b7f0e93a7242fc6b1d7ce9e20d896a4295145fad0ebfd3",
+                      "sha256":  "a7dc0f8d8588942f2753b4a442833c6f69829ee7c6294a99046f7155d96b967e",
                       "size":  322468
                   },
                   {
+                      "path":  "Data/Custom/Interface/login_back01.ozj",
+                      "sha256":  "269bd2f6afce7e81127f4ab5dc5eb7712ae259586fded02a9809c1344ec5f8e3",
+                      "size":  273645
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/login_back02.ozj",
+                      "sha256":  "7fc1a5dcbc1059fdf59ab45959a5f044925960b02af4d9d62868935fe41381d3",
+                      "size":  304493
+                  },
+                  {
                       "path":  "Data/Custom/Interface/login_me.OZT",
-                      "sha256":  "0e86e23c29116167d5970a2d1a9a0ed08c3733e61b9ff6e4c6b0ed1d52a63d1f",
+                      "sha256":  "be848dcea17320736b258f28b2bed325b9a59734f048219fc70c4c66563ed3e4",
                       "size":  14400
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo.ozj",
+                      "sha256":  "a485ecd015130fb68824c5d036d367466434edefc5c1d43032b375dc9906e80e",
+                      "size":  16958
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo01.bmd",
+                      "sha256":  "be38759bb83db26da1e9144ce24261210e50d455b9f50693b2bf360a7a9d0081",
+                      "size":  1281
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo02.bmd",
+                      "sha256":  "3a36c32f62a05eae5b478a339d53b304289a025102b553972dc11f1a4e6f70a8",
+                      "size":  5793
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo03.bmd",
+                      "sha256":  "29a42cfb4b86a5aa3f54012700f60e761504aab1e22f1a095caece1151e2c4fa",
+                      "size":  73697
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo04.bmd",
+                      "sha256":  "1049e0e335cfe99ccec6f5ca79f2d88186adc4519a9d899f1d01bd3c223388e0",
+                      "size":  7161
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo05.bmd",
+                      "sha256":  "ba8b33b5cb795f85a3406648162eedd513c3dfb41218f933de3cabd8f23a3751",
+                      "size":  87705
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo2.ozj",
+                      "sha256":  "2db990d95145d981801bdfd047e04c088e534d253df80e9aed8d78261a4a7573",
+                      "size":  2855
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo_0.ozt",
+                      "sha256":  "123224e70f03fcc8362c53d37a9c705b892457eed0689e1aa008e4f339256df0",
+                      "size":  640048
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/logo_1.ozt",
+                      "sha256":  "632aea0371216cefd484e1aca5546ec4e6b7fd6b7ad7e28e0f8810f4b9353790",
+                      "size":  640048
                   },
                   {
                       "path":  "Data/Custom/Interface/lo_121518.OZT",
@@ -997,6 +1552,86 @@
                       "size":  19979
                   },
                   {
+                      "path":  "Data/Custom/Interface/magic_01.ozj",
+                      "sha256":  "c3c0cb00f5ee184114b6eb51c1979cdcbc305e23287a617328360cdff534c7ce",
+                      "size":  26947
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magic_02.ozt",
+                      "sha256":  "86ae5e6a88539ebb1d84a7bb05bb1812a72855369e8512204e3b35b45b902a77",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magic_03.ozj",
+                      "sha256":  "448f9a83d42595b4200be578cac7805de2f27ec2fbdb63cb4902f564f7543eeb",
+                      "size":  12410
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magic_09.ozj",
+                      "sha256":  "47c25e0d9309d342597020bc97541253fa8f7d46a6de652ef173a5dc26004ae4",
+                      "size":  36370
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magic_09_2.ozj",
+                      "sha256":  "34eac643f1f2aa274de8fce738dabff0ba88a00d16a84908f5708235362393aa",
+                      "size":  11286
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magi_body.ozj",
+                      "sha256":  "a2f7e2a0bef61fe38dc7d86210783d170bae100d449a18ea459377bd882d44e6",
+                      "size":  65361
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magi_epole.ozj",
+                      "sha256":  "b10031eff18f8a055ab47941e425e80b28e7a80d6c9d1265f39bd4b8bc9ba6b0",
+                      "size":  5684
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magi_eye.ozj",
+                      "sha256":  "aa364b22a5a5b03a1e7db93b838db1ee953a002cde196d6c0b1bf1a1f2fdbfcc",
+                      "size":  1672
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magi_face.ozj",
+                      "sha256":  "5b6c543b4c9ac0d01da4fba5245f121429dc5ca7d653f57373b0fb21018fae8a",
+                      "size":  55206
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magi_hair.ozt",
+                      "sha256":  "99ffebb2206bacf6a6dc29b899a270f06dd1cb672c7c03c643eff40dc638c0c8",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_body.ozj",
+                      "sha256":  "3472d21f69949c5fb2bdf227509d39a798b4fd915f981d8b3f0017c5248cbb0f",
+                      "size":  68997
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_eye.ozj",
+                      "sha256":  "7c0f87454a5e57d000790e95af47b3b7aeb2083f2d82d33a120adefbec6d35bb",
+                      "size":  12841
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_face.ozj",
+                      "sha256":  "b326b49b28752bca7bef9c54b2273fe7baaa2ddb817cf6acfa8c9f7e11fe4943",
+                      "size":  55603
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_hair01.ozt",
+                      "sha256":  "779679ac785265bd111611cab04da64f7379602ae6e4c4dec69efeb9bd3e4fb5",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_hair02.ozt",
+                      "sha256":  "160afda6944867b0fd86fb8839d8f0b35367ba9355212ced92878da8263534d9",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/magum_manto.ozj",
+                      "sha256":  "2ccd64dc13e6db6b210cfc6451d63bcc662505fc341a5ea2a67521a64b3ad2d2",
+                      "size":  37041
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Main_IE.ozt",
                       "sha256":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
                       "size":  0
@@ -1007,14 +1642,44 @@
                       "size":  54028
                   },
                   {
+                      "path":  "Data/Custom/Interface/menu01_new.ozj",
+                      "sha256":  "30fbda5980eec670b79b563ec78561d5ecb46bc3602d854fce486a91b6e68100",
+                      "size":  15419
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu01_new2.ozj",
+                      "sha256":  "bf6d18de6a4f44d6cbfcc76c4626fb7c5fe9c1f3a4506f43e6264935b21c0959",
+                      "size":  10614
+                  },
+                  {
                       "path":  "Data/Custom/Interface/menu01_new2_SD.OZJ",
                       "sha256":  "b5a439ed250978c75cb564b91ae4b9a59c296e78023233311de1c1ef5d610a08",
                       "size":  14413
                   },
                   {
+                      "path":  "Data/Custom/Interface/menu01_new_s.ozj",
+                      "sha256":  "1a048f9547f9207c2e8b4be9e848166d58114e1ab990ecbb68278e893a571768",
+                      "size":  15110
+                  },
+                  {
                       "path":  "Data/Custom/Interface/menu02.ozj",
                       "sha256":  "6d7b661ed741582c6c991885faadedb3f6b75a8f7aad088c82cd3ba7bc451015",
                       "size":  14907
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu03_new.ozj",
+                      "sha256":  "93870d1f4eb74dbb0cbd7e20b03f7f38694bba1fa97e6624dca16bfce149d637",
+                      "size":  15366
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu03_new_ag.ozj",
+                      "sha256":  "90d8090823b6f7ffa3621ef5ee8c416e9ed6ca455ff1c895cb9ea25381cbac7b",
+                      "size":  2875
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu03_new_s.ozj",
+                      "sha256":  "4ac4c191f513c9f9b181764e6b12b0b7ec0ddcc7a4b23e44b1a03f2835724dd1",
+                      "size":  16204
                   },
                   {
                       "path":  "Data/Custom/Interface/Menu1.OZT",
@@ -1257,9 +1922,24 @@
                       "size":  10269
                   },
                   {
+                      "path":  "Data/Custom/Interface/menu_character.ozj",
+                      "sha256":  "d245f7df4bb221bca852011ca006564514335c8fee3cca15c7d5521552bc3ee9",
+                      "size":  5644
+                  },
+                  {
                       "path":  "Data/Custom/Interface/menu_green.ozj",
                       "sha256":  "b1594deed3c6047cfd40aa1065e773d71d1ff2821f6bbb1a1ca4b5d6601750ac",
                       "size":  9940
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu_inventory.ozj",
+                      "sha256":  "12260fc87a89e710542db06cc2dea789039f995878f30467ff08cabe762f2eb8",
+                      "size":  5811
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu_party.ozj",
+                      "sha256":  "b1449bedbdf32656d3596af1f55f221c409c24ab7b0c7a9b57a2d8348540f422",
+                      "size":  5798
                   },
                   {
                       "path":  "Data/Custom/Interface/menu_pk_01.OZJ",
@@ -1317,13 +1997,28 @@
                       "size":  159152
                   },
                   {
+                      "path":  "Data/Custom/Interface/message_box.ozj",
+                      "sha256":  "c0b90e021496576398dfc255e4b048890c8c72de45b505030fda542364ad43e1",
+                      "size":  18815
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/message_box1.ozj",
+                      "sha256":  "1c1292bfe7f6a986d68dbbda1267738531c47bd015b4f0e2e134f38961e54523",
+                      "size":  7793
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/message_box2.ozj",
+                      "sha256":  "fcb44bb0f7f7ccb72d20964b9d452f5a800f90540aba05622c351f9719652810",
+                      "size":  4912
+                  },
+                  {
                       "path":  "Data/Custom/Interface/message_close_b_all.OZT",
-                      "sha256":  "43347d66ff90ed4adb7d816fe393e6b2dd54c04efa239836240a466a728ca671",
+                      "sha256":  "a3d3a5ac042598941181904222f0600f982b0122f1b92e552922c5b997982091",
                       "size":  19488
                   },
                   {
                       "path":  "Data/Custom/Interface/message_ok_b_all.OZT",
-                      "sha256":  "4f5b1222476932e87f37fa1e857e86303e49b4e287ff82979d0922dbebea7530",
+                      "sha256":  "e03d9adfcb6a4ee77b26c1311d85650f6c822979e1e7ecf7b42a7cbe00587871",
                       "size":  19488
                   },
                   {
@@ -1373,13 +2068,23 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/mix_button1.OZJ",
-                      "sha256":  "e84918ea7dbd6fb5166f8882d4a7d467f81bcb760d9fa06b990116a9182db89d",
-                      "size":  11301
+                      "sha256":  "ed91c283bb2669f82dc3eee59388afe8397a1bd3af0d8877ce887553f7210adf",
+                      "size":  5040
                   },
                   {
                       "path":  "Data/Custom/Interface/mix_button2.OZJ",
-                      "sha256":  "c0b16d00cdd461bb3cf60d94e54c438f70417065e8fdc60c5dac1287cffe210b",
-                      "size":  11532
+                      "sha256":  "b44e5010c2a82e7f1797227c98253e10fced1a2a5d174844a20997acc688a9f0",
+                      "size":  5513
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/money_01.ozj",
+                      "sha256":  "bd0631f66bf3d916a08293de877c3279db435aca911a0dfbafae2d87d29cab07",
+                      "size":  5884
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/money_02.ozj",
+                      "sha256":  "b1e909bd0151aee5ec2629b6f73bc4c4dede7ed796421d3f0cad8aca050f1e55",
+                      "size":  5958
                   },
                   {
                       "path":  "Data/Custom/Interface/MonsterCount.OZT",
@@ -1462,6 +2167,31 @@
                       "size":  331680
                   },
                   {
+                      "path":  "Data/Custom/Interface/newface01.bmd",
+                      "sha256":  "a42758d95a99fe4aef1909e59341d08b2b6c35322d97413e0218044dff72bb1d",
+                      "size":  429849
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/newface02.bmd",
+                      "sha256":  "f3ac598103cd10e8ad84c50bb17aba3c268006e9a1d29b2f97444a172bb1ba60",
+                      "size":  382097
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/newface03.bmd",
+                      "sha256":  "8ca5cd85101608f299c823aadce297639d2e18552c8edc53f20f1c654d97ebde",
+                      "size":  421497
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/newface04.bmd",
+                      "sha256":  "f52567461c5a741105cd38cdf8ca8d55377a59f5c7a1bc5ee96b6f19940e553b",
+                      "size":  403025
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/newface05.bmd",
+                      "sha256":  "4698b871c8ef5039996ed0a4a558d09343ed3aaf2cf9b363f5453a5dde226d64",
+                      "size":  546897
+                  },
+                  {
                       "path":  "Data/Custom/Interface/newui_Account_title.OZT",
                       "sha256":  "185e638c06da899a35d461bd330d59a201d4d48cae8bdeff9a8ac48522c6b312",
                       "size":  19088
@@ -1498,7 +2228,7 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_btn_empty.OZT",
-                      "sha256":  "06c108b844fe1062cdb6b992661537a7eb37d7f5ebef417b701e437e3bb757df",
+                      "sha256":  "1675e95153025b6485abf4f51fa62c31957db2003676c586fbd9b3a24a9b641c",
                       "size":  37632
                   },
                   {
@@ -1643,13 +2373,13 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_Bt_scroll_dn.OZJ",
-                      "sha256":  "06289304fce331bbbf51291958b2bff42993c6204ad82db0fa05efbc6747728c",
-                      "size":  924
+                      "sha256":  "064f7dd30ea760f599097d6f2a02a6e090122aaf8d85df219d4c056acd022618",
+                      "size":  14046
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_Bt_scroll_up.OZJ",
-                      "sha256":  "15d90d524c7b612cf83a3002e285439bd2562b425d6241b11d3ebe1ddc19c2e6",
-                      "size":  929
+                      "sha256":  "26fa2e3e800bb7cc7dbb8aa071d2036fb42c0cd770c5bdadbe8939a5e92123e2",
+                      "size":  14092
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_Bt_skill_scroll_dn.OZJ",
@@ -2073,7 +2803,7 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_exit_00.OZT",
-                      "sha256":  "732a3a1abd93d045a5d6386c91d67d19aeec6ab1e56d76ff011628767a8eb27f",
+                      "sha256":  "cfe3659d6bd8a4ba9b62efc224ca1c85fcc81972ebb495263d8c98bb6be55fa9",
                       "size":  8400
                   },
                   {
@@ -2098,7 +2828,7 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_Figure_kantru.OZT",
-                      "sha256":  "d37cc48d9f461e55efe9bc11f51a11eae0c4b041c5838a34b07379c919b8073f",
+                      "sha256":  "e9dea6d143beaef43f02480edd41e2a71a547e34583ddd0d9dd8237a4eb961d6",
                       "size":  30936
                   },
                   {
@@ -2228,22 +2958,22 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_back01.OZT",
-                      "sha256":  "2596c8479b8194c1d91eeb96cd4a07920ec096e0e733464d187725e4c51842a5",
+                      "sha256":  "e65b4f1599f29a12aea792e20a26ee666aa7d6ebead0d0fe56e830e707844a10",
                       "size":  48688
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_back02-L.OZT",
-                      "sha256":  "1d1db5df0b71c4b03c53cdc9111f113ac72bb6a0add42c0d32cd6e1daf37bd5a",
+                      "sha256":  "c6c8989bdc3b557c3805901255c181dafc2506bd130d9e908385f1323139f13f",
                       "size":  26928
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_back02-R.OZT",
-                      "sha256":  "c9c825ffd1f708c0f798784cc9f8ff3eab8ba2c332ded663744679cde3e23419",
+                      "sha256":  "7ac87d35e0968512e7327f86b3d8975d37880588ec8d6b18610d80cdef3611a2",
                       "size":  26928
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_back03.OZT",
-                      "sha256":  "8ea9f591198780c483b18c0c11c3755a585b865cfc1b9c1199e00a9a244c1f78",
+                      "sha256":  "35996164b96ad43537e31cebbe7810817df2e2ccbbcd095ee7a14a7cac0c4423",
                       "size":  34248
                   },
                   {
@@ -2313,42 +3043,42 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table01(L).OZT",
-                      "sha256":  "b7d23974ead023b29569c31c2387791bd6186a9c35efc0848ea5f0b93ac309c0",
+                      "sha256":  "6c502af16031f348ff6fe90867dd79382e2993089f5b9bb70018712160b5b17c",
                       "size":  832
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table01(R).OZT",
-                      "sha256":  "9ec1900f358f7e78a146bdee43187a04829eb966d6a324f29e7ef901941c042a",
+                      "sha256":  "b73c89a2c2819a546742fdfc920b4efad89970eaae1584c8e1c9214499989fdf",
                       "size":  832
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table02(L).OZT",
-                      "sha256":  "8fb5a0dedb960ddb1d1422664aab80d3218a30d90cef15b5acb3570404d2698b",
+                      "sha256":  "372c56cfeb79cfb9a22a1f1e8f8b76787182dd163e198447e6921c5886a77634",
                       "size":  832
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table02(R).OZT",
-                      "sha256":  "4d0d4341a4c2d82b84970c55957339ebea0ca1e14f3e7161dbdf24d84f5087b2",
+                      "sha256":  "5d79150f8b312a71090063b533eca0720b51874c884d8db0d72c0655542d280d",
                       "size":  832
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table03(Dw).OZT",
-                      "sha256":  "31a7615ecc7e411a752cb67846106a0c27ef8aec12d505e4dcacf6ce6eac18e7",
+                      "sha256":  "5b7399909b2f5d12e8205f4b82e0ac2b7f4164e2476718783d525433419b7a49",
                       "size":  104
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table03(L).OZT",
-                      "sha256":  "abe15199f5e24fea8911495ba3e54b4f1d0467dc0c22fde8075c4fab4a269e3d",
+                      "sha256":  "936c6d569369cf03a152a54dbd2a469598c97e1597618a562ee6a435f2ad5096",
                       "size":  104
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table03(R).OZT",
-                      "sha256":  "0e64dc91341b3ff5f63d345c15baa9be557ffb5a94951981ae7befbc9b0b854a",
+                      "sha256":  "5780ed8f1931d9c7e55fd6d575f9caf2f5885ed7520dd1896f045851d8c69cef",
                       "size":  104
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_item_table03(Up).OZT",
-                      "sha256":  "fa9d8c25bf179d18b2a5c41f2ebfb4fcd46fa4d916d0416924b995c2625fc904",
+                      "sha256":  "e06062248086800b382aee74669dadd9787de8532d77a9295c84e94d23c5f5df",
                       "size":  104
                   },
                   {
@@ -2473,8 +3203,8 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_msgbox_back.OZJ",
-                      "sha256":  "9d327b3fda363bf29c561f57c59c1cc8ae408a4e19241eed208e36606fc718a3",
-                      "size":  91150
+                      "sha256":  "8dc9b944a83c14ba9da1a8b8b25d2a0bdbe798071f9db8f0b1aeaf94a7a919c6",
+                      "size":  113250
                   },
                   {
                       "path":  "Data/Custom/Interface/newui_msgbox_bottom.OZT",
@@ -2752,6 +3482,56 @@
                       "size":  19880
                   },
                   {
+                      "path":  "Data/Custom/Interface/new_character001.ozj",
+                      "sha256":  "a7efb064bff737d67894f6bbc07dc1e01092c3072dc43dbf547b36938f4b98b1",
+                      "size":  9699
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character002.ozj",
+                      "sha256":  "c240ea3191c0746907691f00e93a963d716de8b2cfe31e479c6187fa863a2815",
+                      "size":  9682
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character003.ozj",
+                      "sha256":  "47d8fbea04d6f5d515ac7eb29e86a885f3050add9d71babaf0fa6b0767244796",
+                      "size":  5819
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character004.ozj",
+                      "sha256":  "d166fdb9a773f457a2a02cd86f3856607465f4c16d4cf6e302ed38d1ced68431",
+                      "size":  5818
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character01.ozt",
+                      "sha256":  "22129fbe5e18af40bb24d8b409bcb49b322e59e0e98a29ac64aec2f90bf0ab9e",
+                      "size":  245808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character02.ozt",
+                      "sha256":  "c9c1e631c2add5fed18301fea44a4f23c343e375a3a53a8bb622573c0fb5ccfe",
+                      "size":  33648
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character201.ozt",
+                      "sha256":  "87ea391ae0a10e4a39d25c46e0abc79592c6e3ac26c9bc68d522fa6959b6e4b3",
+                      "size":  101872
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character202.ozj",
+                      "sha256":  "ffacf8a0593d32d0d9354a9b204a1306c20c15d9e932d68fafeccd492f1ff141",
+                      "size":  14596
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character_cancel.ozj",
+                      "sha256":  "d18cbbf0de02f5af6faaa6a2de4ca303e8154ec600de68b64c55adc0e612b879",
+                      "size":  11629
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/new_character_ok.ozj",
+                      "sha256":  "9d8ded53424cc1954053d4eeb60ae276f1bf92388eaaad7e14f575358fb5bcee",
+                      "size":  11284
+                  },
+                  {
                       "path":  "Data/Custom/Interface/New_lo_back_01.OZJ",
                       "sha256":  "0f64e24ab13df796c91e3c594fff459e0896448a3a4eebeba05b41ae6801e915",
                       "size":  8418
@@ -2852,6 +3632,46 @@
                       "size":  4022
                   },
                   {
+                      "path":  "Data/Custom/Interface/nis_back.ozj",
+                      "sha256":  "586f302a2267db5dba7046cd1c50a200507d3d119e154e74f9e421d2fc5b221d",
+                      "size":  1766
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_bar.ozj",
+                      "sha256":  "2f7e21b42c33906042896f7549d43522e5b1ef28a22577955e6ebdcaa31125ed",
+                      "size":  1763
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_btnalpha.ozj",
+                      "sha256":  "72b26b7e1d4d512bab8cb07174f58fa935b07d98b14a289f5332048319a3b5f2",
+                      "size":  2392
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_btnarrow.ozj",
+                      "sha256":  "6f19536da4e35ba0d9ba5951e73ea5da05070aa397c64b41dc3fd73bc93a9ef3",
+                      "size":  2369
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_btnchat.ozj",
+                      "sha256":  "25922017092356291e801fcc01fbeb9b3d2dfefb639730db5a38461f3f50b839",
+                      "size":  2411
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_btnsize.ozj",
+                      "sha256":  "9f2dbe76eb4db3fb5199ad6b2d7db049e47b8baeef5c3c41aeb1ede18de6abe1",
+                      "size":  2400
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_rsframe.ozt",
+                      "sha256":  "2fcfa69102259f5c982afad44a80dc44c00f7e1064161bbf20c37ddf2dbb8b56",
+                      "size":  1104
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/nis_vframe.ozj",
+                      "sha256":  "76f9821586f8915f1719f31d42f1b9c9d2b9cad9315c4961b2a3ffbf0e51124c",
+                      "size":  2425
+                  },
+                  {
                       "path":  "Data/Custom/Interface/non_command.OZJ",
                       "sha256":  "e5dbbbba6ca782566cf790dcf15aee713512852e9791f74d3c9dec3822d40317",
                       "size":  67843
@@ -2860,6 +3680,16 @@
                       "path":  "Data/Custom/Interface/ok.OZJ",
                       "sha256":  "2d4e12785316451601a4ea5f3e08ae6d998475fd451367f4db8572dc1a57acdc",
                       "size":  6714
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/ok01.ozt",
+                      "sha256":  "c320130738f9b5dd85fda48fad6e4052ed52fbf17652fb25b30c550756b3b8b3",
+                      "size":  43724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/ok02.ozj",
+                      "sha256":  "0ce52ce154cb2abe7c42562ab82a767a217e0e4f244ef5b401109b75f51394a0",
+                      "size":  9904
                   },
                   {
                       "path":  "Data/Custom/Interface/ok2.OZJ",
@@ -2927,6 +3757,16 @@
                       "size":  14302
                   },
                   {
+                      "path":  "Data/Custom/Interface/pet1.ozj",
+                      "sha256":  "9bdb3a66628413867829549b1cd12fb444ff317531692de604a63b0d6aa88452",
+                      "size":  2984
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/pet2.ozj",
+                      "sha256":  "46e89767d185ead14cccaa856b3ffdeac8376e8122627fe67229b660f0875f53",
+                      "size":  1498
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Pk_box.OZT",
                       "sha256":  "c4a528d7452358218847c012f95ed293a40bd7a3ced31539e9253b643d7642f2",
                       "size":  3924
@@ -2945,6 +3785,16 @@
                       "path":  "Data/Custom/Interface/Progress_Back.OZJ",
                       "sha256":  "69f51d26047aed4515d78c705864d7508d2046861081a8a295a6be33f4a4bbb6",
                       "size":  4374
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/quest1.ozj",
+                      "sha256":  "1cbaa52f6f5278078284a52f537c67e0c9e9a53f8e772ca81961c3888b4959d6",
+                      "size":  12628
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/quest2.ozj",
+                      "sha256":  "7471b7b0713ca52288a82bf90f3786df129160e28cdcb4025fa5287315bdfe37",
+                      "size":  12630
                   },
                   {
                       "path":  "Data/Custom/Interface/Quest_Bt_cast.OZT",
@@ -3102,19 +3952,44 @@
                       "size":  19384
                   },
                   {
+                      "path":  "Data/Custom/Interface/repair_01.ozj",
+                      "sha256":  "2e4405eb605b801638b6e3417414a786ac325dc57d4e4c9118893a037f87e18a",
+                      "size":  5959
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/repair_02.ozj",
+                      "sha256":  "10c08cf322f4faa743548acee2c7320a01f4abdcd4f0e7f22307cc288cac709f",
+                      "size":  6000
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/restore_button.ozj",
+                      "sha256":  "68082665084176a7607186357c8f5b1863a8a44eea82a298cfc3f4f063b6e9b2",
+                      "size":  23965
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sell_01.ozj",
+                      "sha256":  "eafeaa08713cd0282b668563be7f13980d399aaa093f5f05395336b6ec93f85b",
+                      "size":  5853
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sell_02.ozj",
+                      "sha256":  "f1b6e35206e43ffdfa61d6a853490740bead59eb241ae316ff4222d4b057a867",
+                      "size":  5845
+                  },
+                  {
                       "path":  "Data/Custom/Interface/senatusmap.OZJ",
                       "sha256":  "03a0a6d120ebb51b2efc4308b48a24a7b2df796ba6a3e0074a32186bdf8df6c9",
                       "size":  50728
                   },
                   {
                       "path":  "Data/Custom/Interface/server_b2_all.OZT",
-                      "sha256":  "7fae0feeaa604891ef60801f646621559643c36c946a85c2c4e50c2fdb5488ba",
+                      "sha256":  "c25db6820c17cfb30c354d3deb070b48242e2ca70cc73329e49b5f4ef51a4005",
                       "size":  60264
                   },
                   {
                       "path":  "Data/Custom/Interface/server_b2_loding.OZJ",
-                      "sha256":  "08fa38fbdf149c8889d261bc0c8938783163e93c6ec5e0692a1afa08e1dad9c7",
-                      "size":  18085
+                      "sha256":  "f05c35b4e8a0963618a7b71fe49c23363ad057beb243716b775274129573d8a1",
+                      "size":  18447
                   },
                   {
                       "path":  "Data/Custom/Interface/server_credit_b_all.OZT",
@@ -3143,18 +4018,58 @@
                   },
                   {
                       "path":  "Data/Custom/Interface/server_menu_b_all.OZT",
-                      "sha256":  "9c064d9800162eadd7b00c0d2d134a3ac25258d4ba827e41b4b991b7d1349e80",
+                      "sha256":  "aa17ce673d5cc5f12e29904794bbbc09bf41605cdb0c66e5e1b0b571c613e10a",
                       "size":  19488
                   },
                   {
+                      "path":  "Data/Custom/Interface/setitem.ozj",
+                      "sha256":  "161541aa0a90057ab26e8c21cd53851003b36088c47ae2405aeb35f11a9ce7d7",
+                      "size":  11956
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Skill.OZJ",
-                      "sha256":  "5c1168d6f6089cb95e009e3642b721ac06cbe1be4e4a57ca0fc5a0a6b9545419",
-                      "size":  48317
+                      "sha256":  "938c9c3cc6c13c758a35ca6111b70ab4effc5289c14f1eec6c645eaacc26d8b0",
+                      "size":  122511
                   },
                   {
                       "path":  "Data/Custom/Interface/skill2.OZJ",
-                      "sha256":  "497b4731fe3923155994b3942d12f4808f867e394c8f21fa6189d62fb7f8e095",
-                      "size":  40840
+                      "sha256":  "3d6429c616a4756a7947eabf38d64a06f1975f1623f95cbb147364fdcb23301a",
+                      "size":  103975
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sky0.ozj",
+                      "sha256":  "42e752e4eb0cb90548214bb40d7fa5629109078458e56e25f5d434ebfaf517ea",
+                      "size":  38115
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sky2.ozj",
+                      "sha256":  "ef04b58070971268b85f00e585c150804e0addaec977e42d72794e74543d3373",
+                      "size":  2501
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sky3.ozj",
+                      "sha256":  "d43ab7139ead0d0d1143bb2bb69e29d336bc4d93986a0f219a214a373c62bd4d",
+                      "size":  9357
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sky4.ozj",
+                      "sha256":  "3779fdfcc976e36244ee4b5ade40dd456f74c45d21c8bccdab9f741d300b7d3a",
+                      "size":  2045
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/sky5.ozj",
+                      "sha256":  "b686ee2df25c531cb73b8eb92aef1bc6c6fc6d038e4f3776a5cd54c44e735349",
+                      "size":  42906
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/ss_left_column.ozt",
+                      "sha256":  "c8b65e4e5cfb419c168331f8c09e84a980b7774485e2aaa700c41558fddc13bf",
+                      "size":  771888
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/ss_right_column.ozt",
+                      "sha256":  "87d72b6d1b91571440b06f69a9cc095e6ddd3e15cf1a5b99b290cd408cb59985",
+                      "size":  771888
                   },
                   {
                       "path":  "Data/Custom/Interface/statusicon.ozj",
@@ -3175,6 +4090,11 @@
                       "path":  "Data/Custom/Interface/suho_button2.OZJ",
                       "sha256":  "89a3c409c54179da71e372adbe24cadf56a6647e5621bec555db0d1ce10a5364",
                       "size":  9657
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/text_button.ozj",
+                      "sha256":  "f897f7dca301446a79131e7a452218b827d3c21df3d713c1223f37324fbf016b",
+                      "size":  10284
                   },
                   {
                       "path":  "Data/Custom/Interface/TimeBar.ozt",
@@ -3217,6 +4137,11 @@
                       "size":  8808
                   },
                   {
+                      "path":  "Data/Custom/Interface/trading_line2.ozj",
+                      "sha256":  "9819aecf9c7cb7e6167b90ed6ea0794a3589637aef3f7a173dba9e23b19b0ef6",
+                      "size":  1463
+                  },
+                  {
                       "path":  "Data/Custom/Interface/t_main-New.OZT",
                       "sha256":  "1714dfe6d7d59f4062820e8d5ab46fbe5cd0a25551eb8c54fa8c28b845e0ba2a",
                       "size":  15440
@@ -3225,6 +4150,26 @@
                       "path":  "Data/Custom/Interface/unavailable.ozt",
                       "sha256":  "6a09d8db9cabef8abac728a3032bcdae2989268b67cbf2539753092ede307a14",
                       "size":  160052
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/warrior.ozj",
+                      "sha256":  "a809129a5c3fed99287a5c3f3349ac2610912e20dca070d0c279cdb0a21414eb",
+                      "size":  26912
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/warrior02.ozj",
+                      "sha256":  "bb4f8967117b727a179440c7db6593b1d515375db5a29153847f20caa5c54bf2",
+                      "size":  12434
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/warrior03.ozt",
+                      "sha256":  "b68fb499fab72d8a40d869a0400794b24d0063492976c459fdf293064fc39445",
+                      "size":  8240
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/wave.ozj",
+                      "sha256":  "751e69b7f50bdef159489f655d6a7ffd7fe6c197976cfb4d037253ec75851814",
+                      "size":  18604
                   },
                   {
                       "path":  "Data/Custom/Interface/wheelback.ozt",
@@ -3290,6 +4235,11 @@
                       "path":  "Data/Custom/Interface/win_titlebar.OZJ",
                       "sha256":  "acbad9e7ed5b07891beecfba40842190c3191dea7dfa93331fb661509b6e6dfe",
                       "size":  8378
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/wood.ozt",
+                      "sha256":  "961e408135890a6a60a49ae0550ca1b63802b85b020505a38eefd0af700f7f6c",
+                      "size":  16432
                   },
                   {
                       "path":  "Data/Custom/Interface/Buttom/b_create_mini.ozt",
@@ -3362,6 +4312,101 @@
                       "size":  1204
                   },
                   {
+                      "path":  "Data/Custom/Interface/castlesiege/battleskill.ozt",
+                      "sha256":  "224cf0a8d573c6bcb8d1e4a0c05b2c5a29a92bebd956cc947a7489182e60809f",
+                      "size":  16432
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/b_command01.ozj",
+                      "sha256":  "6839e40ea1b96503c606c143cac5954e3bab46ff22847f47d781ec88ac2d4226",
+                      "size":  10737
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/b_command02.ozj",
+                      "sha256":  "da08d37b8ffd3acfd5a1fe4e5f8e1902f91552a5f9ec7ea09f761b68ac4f8aca",
+                      "size":  10752
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/b_group02.ozj",
+                      "sha256":  "66b92873b5992de16821e7f5d45bcbc367a966503f8771c6e9d813ddbb992894",
+                      "size":  10610
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/b_zoomout01.ozj",
+                      "sha256":  "f397400cfb169c634f3476ede62636a7720e94f52adf7577be8d75ad7a310e92",
+                      "size":  11243
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/doorcl.ozj",
+                      "sha256":  "597eee0dfedaeed48621579e34e74c228ade97af731d24fe88bd1dd27b7b42ca",
+                      "size":  54277
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/doorop.ozj",
+                      "sha256":  "8de5aac9bda172e750a1c4cf7631abae9b2437ce51d4824e66b8911c0fff2ab5",
+                      "size":  50185
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/frame.ozt",
+                      "sha256":  "d7e67cf67924c85d476c00d5bee88dab93b6658ecd2733c4afef68920800f05f",
+                      "size":  104540
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/gate_button1.ozj",
+                      "sha256":  "cf5c07d5b957c2877ae2ec7a90f16387658c4fae1807329e986e609875e09305",
+                      "size":  9884
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/gate_button2.ozj",
+                      "sha256":  "46e61416d79a5bb906cd2d1d51152c00ee4c2d442a47c953d8e8b9223b99e155",
+                      "size":  9558
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/hourglass.ozt",
+                      "sha256":  "4a9463572757f22e4d1070d8b1a0d2f705a3188373be016f97ca08120ba11f1f",
+                      "size":  14216
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/i_attack.ozt",
+                      "sha256":  "f49e0ef2202dce03a5d20fc509074fd6563f8cce04bd469f0acafe6a40f304bf",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/i_defense.ozt",
+                      "sha256":  "37d21f5d971c06b50b76c06933bd707f84686854101afdb2060b052ed07feedf",
+                      "size":  1128
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/i_wait.ozt",
+                      "sha256":  "425ace48e533e1bf1eeae455cb5094304c2c46367dae2e2e287cfb86b1a02893",
+                      "size":  576
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/newui_bar_switch01.ozj",
+                      "sha256":  "8eda6b05e2e32ebc8b11d8a5e0a9edfb8cdd62bb1d6f24fa5b7daf2940da42c8",
+                      "size":  16365
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/newui_bar_switch02.ozj",
+                      "sha256":  "6a020a3482cba39cd895ac0d18e29c73effff803dfa384302521cbab90e42d5c",
+                      "size":  14431
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/senatusmap.ozj",
+                      "sha256":  "03a0a6d120ebb51b2efc4308b48a24a7b2df796ba6a3e0074a32186bdf8df6c9",
+                      "size":  50728
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/suho_button1.ozj",
+                      "sha256":  "e71d2f1f0302c8cc342f4e8954f3fddcf73728283e540b9326185336ec16d34d",
+                      "size":  10219
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/castlesiege/suho_button2.ozj",
+                      "sha256":  "89a3c409c54179da71e372adbe24cadf56a6647e5621bec555db0d1ce10a5364",
+                      "size":  9657
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Chat/chat_bg01.ozt",
                       "sha256":  "42eec84eb7383a63c0179ad30beab23b284dd9b44cd558590622f46efdb4710f",
                       "size":  65558
@@ -3432,6 +4477,291 @@
                       "size":  2425
                   },
                   {
+                      "path":  "Data/Custom/Interface/christmas/christmas_bg01.ozj",
+                      "sha256":  "2aadc79a471a120d37ce2decc31204bcbf6fb70773489d10b6ce8ed952b6cd46",
+                      "size":  210449
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/christmas/christmas_bg02.ozj",
+                      "sha256":  "781e47773d287487195d448ed0bac3e21b849590d95e0d659c9939b6740d8cae",
+                      "size":  234127
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/christmas/sky0.ozj",
+                      "sha256":  "b1169a6a8dc9c33f723a2571cbe75ebe7160e0fc91e07b57f29e8ae979772b04",
+                      "size":  34251
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/christmas/sky2.ozj",
+                      "sha256":  "d43ab7139ead0d0d1143bb2bb69e29d336bc4d93986a0f219a214a373c62bd4d",
+                      "size":  9357
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/christmas/sky3.ozj",
+                      "sha256":  "ef04b58070971268b85f00e585c150804e0addaec977e42d72794e74543d3373",
+                      "size":  2501
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/christmas/sky5.ozj",
+                      "sha256":  "1ddf8e89372c43d6b5bea600cf944843c80a05fa3be3d0e1843ce80f12075537",
+                      "size":  32017
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_arrow_left.ozj",
+                      "sha256":  "14d6b2bcef41485e6e53048abf6ec998d92350664c88b77c1d037a45da23364a",
+                      "size":  6621
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_arrow_right.ozj",
+                      "sha256":  "01626ba7ca3af9a4f891e3c209d8eccfcd81c6f2557f6def10149961c6e676f0",
+                      "size":  2628
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_background.ozj",
+                      "sha256":  "6cf33d10a7211c11a11e3aaf3be563355b4d31553d9fd9a4785fcdb2f312ba4d",
+                      "size":  140140
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_cat_btn.ozj",
+                      "sha256":  "e94c2038d679979d0b2e25cea658efbb92758835f6186a2b34729eec39020c68",
+                      "size":  2556
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_open_btn.ozj",
+                      "sha256":  "fef8f81e7a262e9ebf80347bfbc00e3d354c8b7f26435941eebf17cfe97f978e",
+                      "size":  1640
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/coinsshop/coinsshop_tab_btn.ozj",
+                      "sha256":  "543b45200f7a0b5dfbe060e13f928b7a2741bfbede79b666ce14a375921c5bb3",
+                      "size":  2288
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_failure.ozt",
+                      "sha256":  "0b6d1cd0a72e4ebe96c5eb68d9ca0c4c4a5b37feeeb35b0621d2a4b7c0e28991",
+                      "size":  123752
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_0.ozt",
+                      "sha256":  "59a6807206e3ca5497b1f2e1b9e2c98d44da9a387c1858b1b5a38793d6487da0",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_1.ozt",
+                      "sha256":  "815e4df53eabbbd62c592964cd5061c2abbf330547646e91cd1c118f9e938104",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_2.ozt",
+                      "sha256":  "2927879ef55533382a77d88fb5ddb0249c7684cce40fe9c2c25472e7cd355205",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_3.ozt",
+                      "sha256":  "9d84f3bfd3d8f55c474d6723a552eb8a743f56023cf93e2b93d713aa35e1385d",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_4.ozt",
+                      "sha256":  "35b1fd40f6d198fc26dd3b69d652d2b8bd05792c5d534eb97531176bcc0b535e",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_5.ozt",
+                      "sha256":  "6d0c228edcf4532361ffe09c4932c4009ef6cdec23817b3732893b60433fe909",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_6.ozt",
+                      "sha256":  "c89fbf75c895fc3792da6d5e520a9a3e2e4ec052128a8ab80bb292d86705f8de",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_7.ozt",
+                      "sha256":  "4e56c8f6214aa9ec9bf0dc76ce6e5e3759b55080ce7f6dc3055e6ede972eaa94",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_8.ozt",
+                      "sha256":  "997843b89f4ead79f0579224250f7a9e7569efd585d12553dbe9ac648d50a9a9",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_9.ozt",
+                      "sha256":  "21416735ae757340b45fe629faf72d237e56da33fd9a9b1136c92ba6d81d1ace",
+                      "size":  1188
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_a.ozt",
+                      "sha256":  "5de8debc358524be831cba706e1cb69f11b972f8c8f81f6341721e985e485b3b",
+                      "size":  3296
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_b.ozt",
+                      "sha256":  "9c049f7e183c6e42ef9af023f601bd168cb5d6a9a2db0e58cc5a77a98d3d3137",
+                      "size":  3296
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_c.ozt",
+                      "sha256":  "cf1b3b5dee46dc8208f9ef99041337c9e527aa0b30a42f3d182f819725e6ec36",
+                      "size":  3296
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_d.ozt",
+                      "sha256":  "a9776ae0cdf38e6f102d521f3c4dcf9597bb2e31538e88bb66a00fb2a442e17e",
+                      "size":  3296
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_exp.ozt",
+                      "sha256":  "610671af3747a446bb80726449ff3ff8a48ac3e55a784925fb4b0ab5205cf180",
+                      "size":  4608
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_rank.ozt",
+                      "sha256":  "654e4dbdf51cc719fedae811082f43e12c6362d04d2221e3c068dd340117c12c",
+                      "size":  12368
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_s.ozt",
+                      "sha256":  "7f5ea0172cdd8e196365b0b3642f9e8de4a409c35812ee0900bcfdbaee87e012",
+                      "size":  3296
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_rank_table.ozt",
+                      "sha256":  "92df55a5a314f799f8cb5e423a7e38c6a5b2cac807ce593603a3aa8bc4aa10b9",
+                      "size":  110592
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/icon_success.ozt",
+                      "sha256":  "063f80fa668576b02fa4f58601735684012dfc989ff94dea70bdc89fc766de57",
+                      "size":  123752
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_bar.ozt",
+                      "sha256":  "e35d3f5f1b237b3d33c2508b555755715e14d3c91a69252bb4fb3d1ada48d1c6",
+                      "size":  8196
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_bar2.ozj",
+                      "sha256":  "1570eda6578655b1790c1b0e09b3d9027939fef3bc7bed9fea5de7e01f80e04f",
+                      "size":  11038
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_deco.ozt",
+                      "sha256":  "e8b5afeb9ac7f1d2ffdb7a78179b2b521ff1426ea2352889083a6862c827fe89",
+                      "size":  768
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main.ozt",
+                      "sha256":  "180b6c6ce3197c7eccba46e6b52bf7a518253e8dc4cc3e6d219f2418f0e72d6a",
+                      "size":  47872
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main2.ozt",
+                      "sha256":  "bdfa975a7179f0985e60b1e43a60c9e1b09d10039f407c298b9fea4420c1ca53",
+                      "size":  10728
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_icon_bal1.ozt",
+                      "sha256":  "d9963a0406bc22ae213090898ef6cf5ad3fe828889fec58c56478de15a09324b",
+                      "size":  948
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_icon_dl1.ozt",
+                      "sha256":  "fbd60a995cf87c37029e5bff1a81421efef60e4edff734749e34f4e10e00a8e8",
+                      "size":  948
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_icon_dl2.ozt",
+                      "sha256":  "9d9951d17688039e3ed670dcccbbacd17d2bf34b4e122bd041eaf6e759fafd28",
+                      "size":  948
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_number0_2.ozt",
+                      "sha256":  "f36c61be2893c3f3c049f35ed28a2eb48c23713ed9c2803a58ccd21478a1e9e0",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_number1.ozt",
+                      "sha256":  "530f49f0e4b036f95d805e616f0b66df53416688e631d3d08f2ba1a34c8fe490",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_number1_1.ozt",
+                      "sha256":  "75be49ac8d60397b8b59d997226b4b0be4b48ffcb9986ffcbfb26e6614fb06ca",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_number2.ozt",
+                      "sha256":  "e79b34ae5fa0e6f0aa8ad77dae2382b4c0c6d02d88b6e9cc8f68e91bb8934039",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/in_main_number2_1.ozt",
+                      "sha256":  "74072750c27d4005b44e33626016a49df5e15ba5c7e894ee5d9acf0d3ad8177a",
+                      "size":  724
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_no1.ozt",
+                      "sha256":  "87a0c2ff2d27839795a3158f5d7e1133c25d95a5ed5e7b0432d25185830eebb4",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_no2.ozt",
+                      "sha256":  "2c874237a17d6e6789e69fbacef964b0e9a7484d58a5cc12da371c918b062f1d",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_no3.ozt",
+                      "sha256":  "c82edc94551e718e2114665086d798983b52c5c99228f512b4ad8da19c6c93a1",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_ok1.ozt",
+                      "sha256":  "0c6b6c97ac79ad59cb7d3a8a9e2ad6b1a0a13fd195216d5c132d5be8e1444b3c",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_ok2.ozt",
+                      "sha256":  "a9db9cf1597a7fffc69c9ac8e62379b0563d28dc937a854d1d8452810d028ea8",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_ok3.ozt",
+                      "sha256":  "6c58e2f4facd557be456a43f8ab8689223cfb0f7666f4ebe5f9e4a6171bf1f1d",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_yes1.ozt",
+                      "sha256":  "821ed7b09d0c5826a7dccab4103c0e5f338dc4b477030ba0a22790c6b67262d4",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_yes2.ozt",
+                      "sha256":  "57d55081496af4e03e4521f887f736815374579eab14e9121e801162917e4f79",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_b_yes3.ozt",
+                      "sha256":  "0507238e0887b0e4dbd5219ccd204322ad351b680e581f6d07df010063c455c1",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_main.ozt",
+                      "sha256":  "c5ec3b1a9380a1c6a5f0d414d558edc7aa21130881d5e9c95fde0190349078fb",
+                      "size":  66928
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/m_main_rank.ozt",
+                      "sha256":  "93a5a66d378ef96cb0666229d182d92c1d66db5ac9d6637a2a5256b42a4d5b7a",
+                      "size":  331680
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/crywolf/t_main-new.ozt",
+                      "sha256":  "9f2e810aa3d13e0a42b5ee8feea67a9b8923e62178f104c50e12a2ce81f665ef",
+                      "size":  15440
+                  },
+                  {
                       "path":  "Data/Custom/Interface/GFx/CharacterSelect_Button01.ozt",
                       "sha256":  "fd4368093b11d2adbaa1701784c27f5c456e782eb1eddc9f762c46962910ada9",
                       "size":  46848
@@ -3450,6 +4780,36 @@
                       "path":  "Data/Custom/Interface/GFx/none.ozt",
                       "sha256":  "a23807a550b7cc33a6afb3c1e32a559d1d9aeb471b15d217cf182d66d29b8cb1",
                       "size":  52
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/halloween_bg01.ozj",
+                      "sha256":  "595eb4ac94c72bbb9cc96aca65ad904107bd556ac9b582c435586c5b4a0435c9",
+                      "size":  187922
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/halloween_bg02.ozj",
+                      "sha256":  "0f967262d874f533263c5f6c4f066231931047a375b96340ac106673ec22c376",
+                      "size":  183223
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/sky0.ozj",
+                      "sha256":  "e5ba1d1832b33beeba1e13f7819cac84766b5af1c89cf127d10aa532ebefa7be",
+                      "size":  19537
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/sky2.ozj",
+                      "sha256":  "d43ab7139ead0d0d1143bb2bb69e29d336bc4d93986a0f219a214a373c62bd4d",
+                      "size":  9357
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/sky3.ozj",
+                      "sha256":  "ef04b58070971268b85f00e585c150804e0addaec977e42d72794e74543d3373",
+                      "size":  2501
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/halloween/sky5.ozj",
+                      "sha256":  "0de69d5bd3c4234f56ac9627a44b1029a5e2899172c9fad5b7f039588cba3df8",
+                      "size":  15858
                   },
                   {
                       "path":  "Data/Custom/Interface/InGameShop/character_ex.ozt",
@@ -3607,6 +4967,16 @@
                       "size":  14032
                   },
                   {
+                      "path":  "Data/Custom/Interface/lorencia/lorencia_bg01.ozj",
+                      "sha256":  "76c2bbd327e79300c765762b615b8d91c4612ad450e1de5222568367fa451e34",
+                      "size":  245259
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/lorencia/lorencia_bg02.ozj",
+                      "sha256":  "519b2a082f432ac8773282d0f2f234b0a955400cb8d21f7a410cabf55adcd56e",
+                      "size":  242968
+                  },
+                  {
                       "path":  "Data/Custom/Interface/MacroUI/MacroUI_Gauge_Bar_(B).OZJ",
                       "sha256":  "ba7d629514f5e1e4adfb3506b43dd5b97d141c552db2b82d9f3042257daa68b3",
                       "size":  13814
@@ -3677,6 +5047,151 @@
                       "size":  5888
                   },
                   {
+                      "path":  "Data/Custom/Interface/mapname/aida.ozt",
+                      "sha256":  "4794966a3eb699d18f109ecada66a12ddce227e272132efa05b8c8e3ae1a2228",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/atlans.ozt",
+                      "sha256":  "e673433f86d8a3ec1447f435edfe8a3e7d819298cf71ca5dba47cd73bea5d36b",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/balgasbarrack.ozt",
+                      "sha256":  "ccd9cd9730de42634679ca52fc3cadac782932f978bc15e3e1bd2075496ecff7",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/balgasrefuge.ozt",
+                      "sha256":  "3b1fa292a2b03ff07a3671d81de12c3595b346565e232ed3fa2bec320e4b4fea",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/bloodcastle.ozt",
+                      "sha256":  "27985207c9366c1f004122bba170af3ef6691ae92d068c846a09e7d2836f2a6d",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/chaoscastle.ozt",
+                      "sha256":  "9e01951a80b13c2351cdc1b97b92d18abd658a7873381f4bad6c94264f805533",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/crywolf.ozt",
+                      "sha256":  "5e5aefa3171d9de31d678a4abbbc3f19f5bb470a38ba0a114de1857927653a6d",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/devias.ozt",
+                      "sha256":  "ff1dca7a6707e8cd253fd048bff8f81f69fb3f60c97f3f36dffa866d8b82831d",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/devilsquare.ozt",
+                      "sha256":  "90e1d240c70ac5663f990df5e62b06e248c5810a874b9e887ee744705b8f9066",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/dungeon.ozt",
+                      "sha256":  "e7e32fb0382119c6d0399bbb1b96fcfac388deaaab171a3c26bcfb60ed9900cf",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/elbeland.ozt",
+                      "sha256":  "2fd8e59a0402004a6752ee6a4e149a8da0fa76df752bbef0b39ab25a148a91e5",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/exile.ozt",
+                      "sha256":  "b20cc5ceed00c972a16df4e638f7338ff8e874ecdb026350351f8e39209a3097",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/icarus.ozt",
+                      "sha256":  "308a03ac78a44bb38b911efef87b70d298a92209450506a79c85a9b568f93a9b",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/illusiontemple.ozt",
+                      "sha256":  "7666b0ebb37e7818f5463e001622b85917facfa5c2efff5791f3bb91a10ac0bd",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/kalima.ozt",
+                      "sha256":  "8e3b71077d1a142d10a9c49dbc6b5642b420391f5e80f58a014477ff52d8f568",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/kantru.ozt",
+                      "sha256":  "659f98e87253e34777eda42f05360e3b60cfe52b856b687ca942e20a18f2e42d",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/loren.ozt",
+                      "sha256":  "3bed130e6a5815b3df36c3fb8ed65f4930baf113f3953eeac6f442f7b8f88519",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/lorencia.ozt",
+                      "sha256":  "afecbceddbd2823452f621f299a6c925b63924011d8ad63ec5b34a501800fc1a",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/lostisland.ozt",
+                      "sha256":  "2de08217c174b5fcea4c08c627892dbbdc1d155b6c207dafaa0d508694dd3779",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/lostkalima.ozt",
+                      "sha256":  "8e3b71077d1a142d10a9c49dbc6b5642b420391f5e80f58a014477ff52d8f568",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/losttower.ozt",
+                      "sha256":  "69c473333384ec7758db8cfba2a7375f5dfa3adbf298eff49d610e392e8ed05c",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/noria.ozt",
+                      "sha256":  "d5ef8d84841bc278dd5b7fa9536cea8927198bef3bf787ed1ddd34d1d049e41a",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/ordeal.ozt",
+                      "sha256":  "f53d885c2af58a2bf61c2cea7b570d43cdf2ac7e48cee7697394382700346693",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/raklion.ozt",
+                      "sha256":  "b927ec15695553e11ab89568be0c3e187a0fbcb237acc4f14bdad37f855e80bb",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/raklionboss.ozt",
+                      "sha256":  "693124169483ecab29a1ed9b624f88aca14dd980b8d5f0857974b2d03e2c972f",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/silent.ozt",
+                      "sha256":  "414fd054ad55620095ccbaca5c3413d2408f93cd330856d014c606be584c0fc2",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/stadium.ozt",
+                      "sha256":  "fdbd9e93faa6a3f641d815b4549887d1b964b562665fda5973815a65585036bb",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/swampofcalmness.ozt",
+                      "sha256":  "a8aa55ccd1f949f255e8251ca240bdb88b35aa55e075cb1fb89a0a4d9b987a43",
+                      "size":  59808
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/mapname/tarkan.ozt",
+                      "sha256":  "2e8f23a8827658607cb5b23c77d25308af0695e3918b73aab429bd81fa5201e3",
+                      "size":  59808
+                  },
+                  {
                       "path":  "Data/Custom/Interface/partCharge1/newui_menu03.OZJ",
                       "sha256":  "fd458f938d6d53bfb1ce547a3187bba8bfcda5c6a9af778e6be47c0df977884f",
                       "size":  24995
@@ -3705,6 +5220,16 @@
                       "path":  "Data/Custom/Interface/partCharge1/newui_menu_Bt05.OZJ",
                       "sha256":  "7d8878195717f28ac1daab67467ee4b7c3a6e4175ae1d1a4529867c797ec8349",
                       "size":  23639
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/valentinesday/valentinesday_bg01.ozj",
+                      "sha256":  "7761f26626e541342b30a7e927b1615181a10f4e9985e11989ac2d282786658f",
+                      "size":  72028
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/valentinesday/valentinesday_bg02.ozj",
+                      "sha256":  "91e2bd3ea8b4cfbed276664268d3520a0ebd19813d771a996ff8f72a2fdd82d2",
+                      "size":  76885
                   },
                   {
                       "path":  "Data/Effect/!SwordEff.OZJ",
