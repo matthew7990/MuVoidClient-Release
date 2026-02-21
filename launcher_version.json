@@ -1,15 +1,17 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Optimización masiva: descarga en paralelo (100 hilos)",
+                      "Sistema de descarga paralelo masivo (100+ hilos)",
                       "Indicadores de velocidad (MB/s) y tiempo restante (ETA)",
-                      "Prioridad de actualización del launcher"
+                      "Auto-actualización obligatoria y silenciosa del launcher",
+                      "Selección manual de carpeta de instalación inicial",
+                      "Eliminación de mensajes de debug innecesarios"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "d5779e714e1b48462945852f1f96bef81f040d6dd9852a573608186c9e18b8f8",
-                      "size":  12873216
+                      "sha256":  "6749c69ae1379a7bbf8037b86280aa173cd79763dba1c2990f7c1969e3131c4c",
+                      "size":  12885504
                   }
               ],
     "version":  "1.0.0"
