@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "date":  "2026-02-21",
-    "commit":  "ce4b773",
+    "commit":  "87247ba",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -380,6 +380,11 @@
                       "path":  "Data/Custom/Interface/Exbar_Master.OZJ",
                       "sha256":  "efb4230f485da568efdacfa29cabb899695c846c37de2c86588d54d24c94c3fc",
                       "size":  12943
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/exit_00.ozt",
+                      "sha256":  "cfe3659d6bd8a4ba9b62efc224ca1c85fcc81972ebb495263d8c98bb6be55fa9",
+                      "size":  8400
                   },
                   {
                       "path":  "Data/Custom/Interface/exit_01.OZJ",
@@ -1007,6 +1012,11 @@
                       "size":  14413
                   },
                   {
+                      "path":  "Data/Custom/Interface/menu02.ozj",
+                      "sha256":  "6d7b661ed741582c6c991885faadedb3f6b75a8f7aad088c82cd3ba7bc451015",
+                      "size":  14907
+                  },
+                  {
                       "path":  "Data/Custom/Interface/Menu1.OZT",
                       "sha256":  "3f1590c41a9315c7255b831086b72cc220250a9bc43e81853c2a2eaccfbf35b7",
                       "size":  8142
@@ -1242,6 +1252,16 @@
                       "size":  2640
                   },
                   {
+                      "path":  "Data/Custom/Interface/menu_blue.ozj",
+                      "sha256":  "9b98e093eea3ba815985988b92a3f99639a4320307b4fa5fed6990d09e2b2ee8",
+                      "size":  10269
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu_green.ozj",
+                      "sha256":  "b1594deed3c6047cfd40aa1065e773d71d1ff2821f6bbb1a1ca4b5d6601750ac",
+                      "size":  9940
+                  },
+                  {
                       "path":  "Data/Custom/Interface/menu_pk_01.OZJ",
                       "sha256":  "1da204e1a04f431ace2d9fa920a9f2ca5d3df089a96c8ea4e6bd858ede110b79",
                       "size":  27822
@@ -1280,6 +1300,11 @@
                       "path":  "Data/Custom/Interface/menu_pk_sd05(bar).OZJ",
                       "sha256":  "d0fb424ad29bc5cc47876b3751f604c20640852966ee3a0f5905f6db6bc84a8e",
                       "size":  14374
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/menu_red.ozj",
+                      "sha256":  "74f3bcec39567e41b4c3576768ed1c6cfaad97cf39ce564bd6b5ead4d83ea4ea",
+                      "size":  9892
                   },
                   {
                       "path":  "Data/Custom/Interface/Message.ozt",
@@ -1365,6 +1390,11 @@
                       "path":  "Data/Custom/Interface/movie_b_all.ozt",
                       "sha256":  "e3ad361d2938b3cc4172250d97a1e587597b6d1e2d873f5468d12b2fdfc47145",
                       "size":  19488
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/msgbox_back.ozj",
+                      "sha256":  "8dc9b944a83c14ba9da1a8b8b25d2a0bdbe798071f9db8f0b1aeaf94a7a919c6",
+                      "size":  113250
                   },
                   {
                       "path":  "Data/Custom/Interface/MU-logo.OZT",
@@ -3125,6 +3155,11 @@
                       "path":  "Data/Custom/Interface/skill2.OZJ",
                       "sha256":  "497b4731fe3923155994b3942d12f4808f867e394c8f21fa6189d62fb7f8e095",
                       "size":  40840
+                  },
+                  {
+                      "path":  "Data/Custom/Interface/statusicon.ozj",
+                      "sha256":  "be262c27d143842d0b13403befdd78ee01e7e153314e0fd46e63ebafcf39f108",
+                      "size":  81136
                   },
                   {
                       "path":  "Data/Custom/Interface/Success_kantru.OZT",
