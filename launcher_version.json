@@ -1,16 +1,15 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Escritura atómica de manifest (evita bloqueos)",
-                      "Reintentos de lectura de archivos",
-                      "Diseño side-by-side restaurado",
-                      "Eliminación de componentes redundantes (banner)"
+                      "Launcher inicial con actualización automática del cliente",
+                      "Actualización automática del launcher",
+                      "Descarga del cliente desde client-release"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "a484462e9a38fb6a1039f0cbbef152e44c7f3509a688f6b66748da0840ad192d",
-                      "size":  12959232
+                      "sha256":  "b899d734180ab3e92b327432976f2f88120e65053478042c43062c1d356730a8",
+                      "size":  12958720
                   }
               ],
     "version":  "1.0.0"
