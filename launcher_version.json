@@ -1,16 +1,16 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Layout side-by-side restaurado",
-                      "Consola de actividad integrada",
-                      "Logs mejorados",
-                      "Eliminado mensaje de error de ruta"
+                      "Escritura atómica de manifest (evita bloqueos)",
+                      "Reintentos de lectura de archivos",
+                      "Diseño side-by-side restaurado",
+                      "Eliminación de componentes redundantes (banner)"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "b2ed358e6747929e47541c084891e0954d7e6bb1c52e2f61f97a8f5f7289a6e9",
-                      "size":  12955648
+                      "sha256":  "a484462e9a38fb6a1039f0cbbef152e44c7f3509a688f6b66748da0840ad192d",
+                      "size":  12959232
                   }
               ],
     "version":  "1.0.0"
