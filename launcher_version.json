@@ -1,17 +1,16 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Sistema de descarga paralelo funcional (100 threads)",
-                      "Monitor de velocidad y ETA tiempo real",
-                      "Updates de launcher obligatorios",
-                      "Selección de carpeta inicial",
-                      "Código limpio de mensajes debug"
+                      "Optimización: Verificación de archivos en paralelo",
+                      "Optimización: Hash streaming para bajo consumo de RAM",
+                      "Optimización: Throttling de eventos UI",
+                      "Mantenimiento: Pool de descargas corregido"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "b2c9d693549022a995eacaf5ea5cf8472e3c4f1f318fdc048a5d3469f11db52b",
-                      "size":  12884992
+                      "sha256":  "a8d833548aa41857bc5f0e3f0305e61cf1d29fdfb1883a1a5728596e237f38ef",
+                      "size":  12906496
                   }
               ],
     "version":  "1.0.0"
