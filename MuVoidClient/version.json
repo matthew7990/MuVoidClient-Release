@@ -1,16 +1,11 @@
-﻿{
+{
     "version":  "1.0.0",
     "date":  "2026-02-21",
-    "commit":  "b3e1d0e",
+    "commit":  "9aa95e0",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
     "files":  [
-                  {
-                      "path":  "config.ini",
-                      "sha256":  "999b54a84b082c9bdd1cf264f890d6d8d9bba23802576c0250441ee51e39d196",
-                      "size":  354
-                  },
                   {
                       "path":  "glew32.dll",
                       "sha256":  "a0822f6b1272689be78221a1b19054007c3f500dc584648a314301e8095d4284",
@@ -18,12 +13,12 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "12451a352045fca99135b78857484378c33e33e48b6b39cf4efe97844d6b2d49",
-                      "size":  5669888
+                      "sha256":  "0fa9cf3b93c0f14765ffc18afa7ba4cd1ce07af10bf167cc7dd25a344ecc4030",
+                      "size":  5678080
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "99a0fc5a5763e827987d91fcbbe4e160ad702dbdab61688aa0012df058fc7e96",
+                      "sha256":  "effaaad64bf03d1807a1ec1bc5752ac78839050ec6d6140c90830d4162942903",
                       "size":  2677248
                   },
                   {
