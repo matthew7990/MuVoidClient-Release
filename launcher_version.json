@@ -1,15 +1,15 @@
 ﻿{
     "date":  "2026-02-21",
     "changelog":  [
-                      "Sistema de logs activado en %LOCALAPPDATA%\\MuVoid\\launcher.log",
-                      "Timeouts en conexiones para evitar bloqueos",
-                      "Mejor manejo de errores de red"
+                      "Consola de registro integrada",
+                      "Logs de Rust vinculados a la UI",
+                      "Depuración visual de conexiones"
                   ],
     "files":  [
                   {
                       "path":  "MuVoid Launcher.exe",
-                      "sha256":  "416db2d513bf88a25ef38483bb887f2310456f397b9f429092a524b4721da62c",
-                      "size":  12925952
+                      "sha256":  "0ccb26a26b8f7976108692165c8258a7626aadfdaa44bd960a30cc42591a9e01",
+                      "size":  12955648
                   }
               ],
     "version":  "1.0.0"
