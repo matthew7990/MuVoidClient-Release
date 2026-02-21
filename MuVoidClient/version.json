@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "date":  "2026-02-21",
-    "commit":  "07399e5",
+    "commit":  "69a2269",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -18,7 +18,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "2cdba774f75a8e82a0851a1582aeeaec9b18d52447be16545b11ca5be315d11f",
+                      "sha256":  "691bd47891801383bc02bd13be34870734a68151e2391d953a6922651e2cfb25",
                       "size":  5678080
                   },
                   {
@@ -8498,18 +8498,23 @@
                   },
                   {
                       "path":  "Data/Interface/back1.OZJ",
-                      "sha256":  "6c3d87545d8f2e7c3cc0c3a69b1abe9f0343be4532a7cfcaddf10eec551551d6",
-                      "size":  6017
+                      "sha256":  "4311906e605c16072a45b17c7189f3301410e7c42d265d936e096f2b09f56b53",
+                      "size":  100426
                   },
                   {
                       "path":  "Data/Interface/back2.OZJ",
-                      "sha256":  "14d6b2bcef41485e6e53048abf6ec998d92350664c88b77c1d037a45da23364a",
-                      "size":  6621
+                      "sha256":  "c89d47c803ff06ab563aba201d84b5c6d21c3b329fb09beabc4a3929b703f09f",
+                      "size":  97624
                   },
                   {
                       "path":  "Data/Interface/back3.OZJ",
-                      "sha256":  "07c23f54d378618a08e364545c82750d1843be1fce1a5bdc6a0ecef54e8a03ed",
-                      "size":  6572
+                      "sha256":  "6b13d0b585c911b77aae2b093fbcc7539a8833e0a0b50968238d2c7ca1a4b2c4",
+                      "size":  13657
+                  },
+                  {
+                      "path":  "Data/Interface/back4.OZJ",
+                      "sha256":  "403d864ebab893de505f36a2d1c5e6648f9efba2bea2eccd1e5a4afc425551bd",
+                      "size":  12034
                   },
                   {
                       "path":  "Data/Interface/backpanel0.ozt",
@@ -8805,6 +8810,11 @@
                       "path":  "Data/Interface/Cursorid.OZT",
                       "sha256":  "f6dc986734bc3c21509342b0b4f0aabaaf4315760bd8bb67c48938de7880b556",
                       "size":  4144
+                  },
+                  {
+                      "path":  "Data/Interface/cursorid_wnd.ozj",
+                      "sha256":  "5af960931cb46252b328af23c5a1c8356c78ae8d7639a29e79035fc64f53548f",
+                      "size":  6396
                   },
                   {
                       "path":  "Data/Interface/CursorLeanAgainst.ozt",
@@ -9433,8 +9443,8 @@
                   },
                   {
                       "path":  "Data/Interface/login_back.OZT",
-                      "sha256":  "0efd9f3a5ade34662e3dc5d4255753543ffe68b8e3a773a9d7fb5fa29e84ec36",
-                      "size":  322468
+                      "sha256":  "f38262113ab55886e987fb0c47b759caf677360b7a7ec4c56593584479f63ca9",
+                      "size":  262166
                   },
                   {
                       "path":  "Data/Interface/login_me.OZT",
@@ -20828,13 +20838,13 @@
                   },
                   {
                       "path":  "Data/Logo/back1.OZJ",
-                      "sha256":  "1e329b890d7aa9ef06e1db4552ef49dda2c7b79e698a34d3f2febb8ca2be4402",
-                      "size":  29861
+                      "sha256":  "4311906e605c16072a45b17c7189f3301410e7c42d265d936e096f2b09f56b53",
+                      "size":  100426
                   },
                   {
                       "path":  "Data/Logo/back2.OZJ",
-                      "sha256":  "c11506610d7e28dad2f366f35e415e8800ecc8d5fc4f2525c657e0944975a7dd",
-                      "size":  27401
+                      "sha256":  "c89d47c803ff06ab563aba201d84b5c6d21c3b329fb09beabc4a3929b703f09f",
+                      "size":  97624
                   },
                   {
                       "path":  "Data/Logo/back3.OZJ",
@@ -21193,38 +21203,48 @@
                   },
                   {
                       "path":  "Data/Logo/logo.OZJ",
-                      "sha256":  "6c0a156108e196382ba4dcb9d2af4d39383ccbdfb2b777a26f36e75fea91892d",
-                      "size":  33943
+                      "sha256":  "a485ecd015130fb68824c5d036d367466434edefc5c1d43032b375dc9906e80e",
+                      "size":  16958
                   },
                   {
                       "path":  "Data/Logo/logo01.bmd",
-                      "sha256":  "ece9f368e0538c7ec3f8280b96da9f449d67045be0756dc545bfad506ce24220",
-                      "size":  1307
+                      "sha256":  "be38759bb83db26da1e9144ce24261210e50d455b9f50693b2bf360a7a9d0081",
+                      "size":  1281
                   },
                   {
                       "path":  "Data/Logo/logo02.bmd",
-                      "sha256":  "bd5bd1a0f52b7ebcf3b9c5d51c62ef991d622077b24a62a47e129fd4910379ac",
-                      "size":  5814
+                      "sha256":  "3a36c32f62a05eae5b478a339d53b304289a025102b553972dc11f1a4e6f70a8",
+                      "size":  5793
                   },
                   {
                       "path":  "Data/Logo/Logo03.bmd",
-                      "sha256":  "4be39d75dadb10f5392092b4b679639266004e7459ed1913aaefab74d171af43",
-                      "size":  73719
+                      "sha256":  "29a42cfb4b86a5aa3f54012700f60e761504aab1e22f1a095caece1151e2c4fa",
+                      "size":  73697
                   },
                   {
                       "path":  "Data/Logo/Logo04.bmd",
-                      "sha256":  "532e1f0b0b40f429a45cf2df94f5a12832a479b061b459efdb60bc98138e3c75",
-                      "size":  7183
+                      "sha256":  "1049e0e335cfe99ccec6f5ca79f2d88186adc4519a9d899f1d01bd3c223388e0",
+                      "size":  7161
                   },
                   {
                       "path":  "Data/Logo/Logo05.bmd",
-                      "sha256":  "6427f07122eec68c65a7bfb5c67ab765a967d5f74bd3bee36aad426fba4b9673",
-                      "size":  73563
+                      "sha256":  "ba8b33b5cb795f85a3406648162eedd513c3dfb41218f933de3cabd8f23a3751",
+                      "size":  87705
                   },
                   {
                       "path":  "Data/Logo/logo2.OZJ",
-                      "sha256":  "df287e1a9bbdfffab3d4c3e12d587d6fcb1b6a643bd599a2dbdf1cb0f6571e28",
-                      "size":  23705
+                      "sha256":  "2db990d95145d981801bdfd047e04c088e534d253df80e9aed8d78261a4a7573",
+                      "size":  2855
+                  },
+                  {
+                      "path":  "Data/Logo/logo_0.ozt",
+                      "sha256":  "123224e70f03fcc8362c53d37a9c705b892457eed0689e1aa008e4f339256df0",
+                      "size":  640048
+                  },
+                  {
+                      "path":  "Data/Logo/logo_1.ozt",
+                      "sha256":  "632aea0371216cefd484e1aca5546ec4e6b7fd6b7ad7e28e0f8810f4b9353790",
+                      "size":  640048
                   },
                   {
                       "path":  "Data/Logo/magic_01.OZJ",
