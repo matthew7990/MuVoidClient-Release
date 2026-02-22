@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.15",
-    "date":  "2026-02-21",
-    "commit":  "8e33f14",
+    "version":  "1.0.17",
+    "date":  "2026-02-22",
+    "commit":  "5592426",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -18,12 +18,12 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "357e78e2e069996c4b004515362a9af92cb29c0858e7ececb24409a4a38dabfe",
-                      "size":  5683200
+                      "sha256":  "f084fea811db0d777a5637f45bfff7521e00612956810d542e2452e5a20fee7a",
+                      "size":  5692416
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
-                      "sha256":  "effaaad64bf03d1807a1ec1bc5752ac78839050ec6d6140c90830d4162942903",
+                      "sha256":  "2a3e34d61a37c9b5b9c4b1a7ab0e7f4cfd8ab41f49a06786e5e39928482b073e",
                       "size":  2677248
                   },
                   {
