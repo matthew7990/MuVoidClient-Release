@@ -1,0 +1,4 @@
+# Unignore everything in this repository to ensure full distribution
+!*
+# Allow all directories
+!*/
