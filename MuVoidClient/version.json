@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.23",
+    "version":  "1.0.24",
     "date":  "2026-02-22",
-    "commit":  "f2d4f75",
+    "commit":  "7aba7a2",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "bfc07e9bf1d3fdffe539e8a159675323db99ff1a972682559f340a353b1a6539",
-                      "size":  5694976
+                      "sha256":  "22b528c44c350c46f2bee06a12edd77a29390aacdbdee781ca9784da6477a94b",
+                      "size":  5698048
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -2318,8 +2318,8 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "c42188958f9471ea0bcb3377b8ac2454f8528729720f69b71012c790fffc24e4",
-                      "size":  8035
+                      "sha256":  "cd0a0d912ec19b142a5fad74b68db91d352f553b192fc8bc150360bbbf286556",
+                      "size":  7707
                   },
                   {
                       "path":  "Data/Interface/Icarus.OZT",
