@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.25",
+    "version":  "1.0.28",
     "date":  "2026-02-23",
-    "commit":  "649964a0",
+    "commit":  "f7ea4fca",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "8d6b317f1f6ad4a03dae251b1165de9ae2d3f29b5db75688ef59cc1be9820d0a",
-                      "size":  5699584
+                      "sha256":  "f813bef6ca58faae1f6f95348e9414abde14988a769b47d887606e8e2c401193",
+                      "size":  5700608
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -2752,22 +2752,22 @@
                       "size":  113111
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im01.ozj",
+                      "path":  "Data/Interface/lo_back_im01.OZJ",
                       "sha256":  "e921d6b254a1c35e95e459c3ca6ae20f9c415b534e078990de9e5727351124af",
                       "size":  34509
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im01_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im01_Blue.OZJ",
                       "sha256":  "e921d6b254a1c35e95e459c3ca6ae20f9c415b534e078990de9e5727351124af",
                       "size":  34509
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im02.ozj",
+                      "path":  "Data/Interface/lo_back_im02.OZJ",
                       "sha256":  "729ee4312d88a4755c77f34cee4d5bd99054642fb6986988ced1e2357d72bfa3",
                       "size":  97586
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im02_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im02_Blue.OZJ",
                       "sha256":  "729ee4312d88a4755c77f34cee4d5bd99054642fb6986988ced1e2357d72bfa3",
                       "size":  97586
                   },
@@ -2777,7 +2777,7 @@
                       "size":  6856
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im03_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im03_Blue.OZJ",
                       "sha256":  "b8f7f3f3c80235da7ace223bc6b56160f000d209b2f834c55cee73082d2aa639",
                       "size":  6856
                   },
@@ -2787,7 +2787,7 @@
                       "size":  3503
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im04_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im04_Blue.OZJ",
                       "sha256":  "5b1f4554781986646e509ff3d491b51e70a12f22c104a6e7ba7ea83712130c9c",
                       "size":  3503
                   },
@@ -2797,7 +2797,7 @@
                       "size":  26920
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im05_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im05_Blue.OZJ",
                       "sha256":  "856a45321432e0901061eab520c85bb0fde0a6619540731f97085e249427f1ff",
                       "size":  26920
                   },
@@ -2807,7 +2807,7 @@
                       "size":  832
                   },
                   {
-                      "path":  "Data/Interface/lo_back_im06_Blue.ozj",
+                      "path":  "Data/Interface/lo_back_im06_Blue.OZJ",
                       "sha256":  "6d9cf0d83ba3e00388e5d4258acac08d0ad240bf77645fe11af6d24840cd4d19",
                       "size":  832
                   },
@@ -3287,7 +3287,7 @@
                       "size":  2648
                   },
                   {
-                      "path":  "Data/Interface/Minimap_positionC.ozt",
+                      "path":  "Data/Interface/Minimap_positionC.OZT",
                       "sha256":  "f24ea2439e841d438a023196a8e464e4960eff97319a6561ffce4713e11621f3",
                       "size":  7614
                   },
@@ -3352,7 +3352,7 @@
                       "size":  19488
                   },
                   {
-                      "path":  "Data/Interface/MU-logo.OZT",
+                      "path":  "Data/Interface/MU-logo.ozt",
                       "sha256":  "2c40e02d60945ec7a81284520ac1cbcadb7bebb77092da78031d9ab850ede668",
                       "size":  68452
                   },
