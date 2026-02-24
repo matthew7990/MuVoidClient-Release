@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.45",
+    "version":  "1.0.47",
     "date":  "2026-02-24",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "0395c51eb1aaca95de5926fa91a3f2ce0d7abd50e9325aae1e218a9cdcc2d69e",
+                      "sha256":  "f0c0785c114897b4ecbcf55959ee54bb969d5833c74b69d83f739bea3f56d366",
                       "size":  5710848
                   },
                   {
@@ -2318,8 +2318,8 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "9bf18123492ad5d9fa4409c007ab9b656a551fe3aae52e8c4b2b9dfb483aaba5",
-                      "size":  21438
+                      "sha256":  "c3706416c0a5687baf2968cbed77c04a3f25d98475d24a66bda951a8bb11c00b",
+                      "size":  22971
                   },
                   {
                       "path":  "Data/Interface/Icarus.OZT",
