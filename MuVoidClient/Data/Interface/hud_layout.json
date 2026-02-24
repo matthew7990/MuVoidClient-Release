@@ -3,7 +3,7 @@
   "GameHeight": 480,
   "Elements": [
     {
-      "FileName": "MenuS2_left.OZJ",
+      "FileName": "Menus1_left.OZJ",
       "AltPath": null,
       "Label": "Marco izq (menu01)",
       "X": 0,
@@ -12,10 +12,16 @@
       "Height": 51,
       "ZOrder": 0,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
-      "FileName": "MenuS2_middle.jpg",
+      "FileName": "MenuS1_middle.jpg",
       "AltPath": null,
       "Label": "Marco centro (menu02)",
       "X": 256,
@@ -24,10 +30,16 @@
       "Height": 51,
       "ZOrder": 1,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
-      "FileName": "MenuS2_right.jpg",
+      "FileName": "MenuS1_right.jpg",
       "AltPath": null,
       "Label": "Marco der (menu03)",
       "X": 384,
@@ -36,7 +48,13 @@
       "Height": 51,
       "ZOrder": 2,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_Red.jpg",
@@ -48,7 +66,13 @@
       "Height": 51,
       "ZOrder": 4,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_Green.jpg",
@@ -60,7 +84,13 @@
       "Height": 51,
       "ZOrder": 5,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_Blue.jpg",
@@ -72,7 +102,13 @@
       "Height": 51,
       "ZOrder": 6,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_menu_ag.jpg",
@@ -84,7 +120,13 @@
       "Height": 39,
       "ZOrder": 7,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_menu_sd.jpg",
@@ -96,19 +138,31 @@
       "Height": 39,
       "ZOrder": 8,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
-      "FileName": "newui_exbar.jpg",
+      "FileName": "Double_bar(Y).jpg",
       "AltPath": null,
       "Label": "EXP bar",
-      "X": 224,
+      "X": 222,
       "Y": 432,
-      "Width": 186,
-      "Height": 4,
+      "Width": 189,
+      "Height": 5,
       "ZOrder": 9,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "Exbar_Master.jpg",
@@ -120,7 +174,13 @@
       "Height": 4,
       "ZOrder": 10,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "Menus2_party.jpg",
@@ -128,11 +188,17 @@
       "Label": "Btn CShop (x_Next=489)",
       "X": 348,
       "Y": 444,
-      "Width": 27,
-      "Height": 27,
+      "Width": 24,
+      "Height": 24,
       "ZOrder": 11,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_Character.jpg",
@@ -144,19 +210,31 @@
       "Height": 27,
       "ZOrder": 12,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_Inventory.jpg",
       "AltPath": null,
       "Label": "Btn Inventario",
-      "X": 407.17883,
-      "Y": 443.1192,
+      "X": 404.45776,
+      "Y": 442.57498,
       "Width": 27,
       "Height": 27,
       "ZOrder": 13,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_friend.jpg",
@@ -168,7 +246,13 @@
       "Height": 20,
       "ZOrder": 14,
       "Visible": true,
-      "Category": "Amigos"
+      "Category": "Amigos",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_menu_Bt04.jpg",
@@ -180,7 +264,13 @@
       "Height": 41,
       "ZOrder": 15,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -192,7 +282,13 @@
       "Height": 32,
       "ZOrder": 16,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -204,7 +300,13 @@
       "Height": 32,
       "ZOrder": 16,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -216,7 +318,13 @@
       "Height": 32,
       "ZOrder": 16,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -228,7 +336,13 @@
       "Height": 32,
       "ZOrder": 16,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -240,7 +354,13 @@
       "Height": 32,
       "ZOrder": 16,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox2.jpg",
@@ -252,7 +372,13 @@
       "Height": 32,
       "ZOrder": 17,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_menu02-03.jpg",
@@ -264,7 +390,13 @@
       "Height": 50,
       "ZOrder": 15,
       "Visible": false,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -276,7 +408,13 @@
       "Height": 20,
       "ZOrder": 22,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -288,7 +426,13 @@
       "Height": 20,
       "ZOrder": 23,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -300,19 +444,31 @@
       "Height": 20,
       "ZOrder": 24,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "skill.jpg",
       "AltPath": null,
       "Label": "Skill icons sheet 1",
-      "X": 380,
+      "X": 380.54422,
       "Y": 374,
       "Width": 160,
       "Height": 38,
       "ZOrder": 26,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "skill2.jpg",
@@ -324,7 +480,13 @@
       "Height": 38,
       "ZOrder": 27,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "command.jpg",
@@ -336,7 +498,13 @@
       "Height": 38,
       "ZOrder": 28,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_non_skill.jpg",
@@ -348,7 +516,13 @@
       "Height": 38,
       "ZOrder": 29,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_non_skill2.jpg",
@@ -360,7 +534,13 @@
       "Height": 38,
       "ZOrder": 30,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "MenuS2_left.jpg",
@@ -372,7 +552,13 @@
       "Height": 38,
       "ZOrder": 31,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "skill3.jpg",
@@ -384,7 +570,13 @@
       "Height": 38,
       "ZOrder": 32,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_non_skill3.jpg",
@@ -396,7 +588,13 @@
       "Height": 38,
       "ZOrder": 33,
       "Visible": true,
-      "Category": "HUD"
+      "Category": "HUD",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_msgbox_back.jpg",
@@ -408,7 +606,13 @@
       "Height": 429,
       "ZOrder": 34,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back04.tga",
@@ -420,7 +624,13 @@
       "Height": 64,
       "ZOrder": 35,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back02-L.tga",
@@ -432,7 +642,13 @@
       "Height": 320,
       "ZOrder": 36,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back02-R.tga",
@@ -444,7 +660,13 @@
       "Height": 320,
       "ZOrder": 37,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back03.tga",
@@ -456,7 +678,13 @@
       "Height": 45,
       "ZOrder": 38,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_fairy.tga",
@@ -468,7 +696,13 @@
       "Height": 46,
       "ZOrder": 39,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_cap.tga",
@@ -480,7 +714,13 @@
       "Height": 46,
       "ZOrder": 40,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_wing.tga",
@@ -492,7 +732,13 @@
       "Height": 46,
       "ZOrder": 41,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_weapon(L).tga",
@@ -504,7 +750,13 @@
       "Height": 66,
       "ZOrder": 42,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_upper.tga",
@@ -516,7 +768,13 @@
       "Height": 66,
       "ZOrder": 43,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_weapon(R).tga",
@@ -528,7 +786,13 @@
       "Height": 66,
       "ZOrder": 44,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_gloves.tga",
@@ -540,7 +804,13 @@
       "Height": 46,
       "ZOrder": 45,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_lower.tga",
@@ -552,7 +822,13 @@
       "Height": 46,
       "ZOrder": 46,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_boots.tga",
@@ -564,7 +840,13 @@
       "Height": 46,
       "ZOrder": 47,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_necklace.tga",
@@ -576,7 +858,13 @@
       "Height": 28,
       "ZOrder": 48,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_ring.tga",
@@ -588,7 +876,13 @@
       "Height": 28,
       "ZOrder": 49,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_ring.tga",
@@ -600,7 +894,13 @@
       "Height": 28,
       "ZOrder": 50,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_money.tga",
@@ -612,7 +912,13 @@
       "Height": 26,
       "ZOrder": 51,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_exit_00.tga",
@@ -624,19 +930,31 @@
       "Height": 29,
       "ZOrder": 52,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_repair_00.tga",
       "AltPath": null,
       "Label": "Inv: Btn Repair",
-      "X": 500,
+      "X": 500.54422,
       "Y": 391,
       "Width": 36,
       "Height": 29,
       "ZOrder": 53,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_Bt_openshop.tga",
@@ -648,7 +966,13 @@
       "Height": 29,
       "ZOrder": 54,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_expansion_btn.tga",
@@ -660,19 +984,31 @@
       "Height": 29,
       "ZOrder": 55,
       "Visible": true,
-      "Category": "Inventario"
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_expansion_btn.tga",
       "AltPath": null,
       "Label": "Inv: Btn Reward",
-      "X": 604,
+      "X": 603.4558,
       "Y": 391,
       "Width": 36,
       "Height": 29,
       "ZOrder": 56,
-      "Visible": true,
-      "Category": "Inventario"
+      "Visible": false,
+      "Category": "Inventario",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_msgbox_back.jpg",
@@ -684,7 +1020,13 @@
       "Height": 429,
       "ZOrder": 58,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back04.tga",
@@ -696,7 +1038,13 @@
       "Height": 64,
       "ZOrder": 59,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back02-L.tga",
@@ -708,7 +1056,13 @@
       "Height": 320,
       "ZOrder": 60,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back02-R.tga",
@@ -720,7 +1074,13 @@
       "Height": 320,
       "ZOrder": 61,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_item_back03.tga",
@@ -732,7 +1092,13 @@
       "Height": 45,
       "ZOrder": 62,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_cha_textbox02.tga",
@@ -744,7 +1110,13 @@
       "Height": 19,
       "ZOrder": 63,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_cha_textbox02.tga",
@@ -756,7 +1128,13 @@
       "Height": 19,
       "ZOrder": 64,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_cha_textbox02.tga",
@@ -768,7 +1146,13 @@
       "Height": 19,
       "ZOrder": 65,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_cha_textbox02.tga",
@@ -780,7 +1164,13 @@
       "Height": 19,
       "ZOrder": 66,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_cha_textbox02.tga",
@@ -792,7 +1182,13 @@
       "Height": 19,
       "ZOrder": 67,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_level.tga",
@@ -804,7 +1200,13 @@
       "Height": 15,
       "ZOrder": 68,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_level.tga",
@@ -816,7 +1218,13 @@
       "Height": 15,
       "ZOrder": 69,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_level.tga",
@@ -828,7 +1236,13 @@
       "Height": 15,
       "ZOrder": 70,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_level.tga",
@@ -840,7 +1254,13 @@
       "Height": 15,
       "ZOrder": 71,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_level.tga",
@@ -852,7 +1272,13 @@
       "Height": 15,
       "ZOrder": 72,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_exit_00.tga",
@@ -864,7 +1290,13 @@
       "Height": 29,
       "ZOrder": 73,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_quest.tga",
@@ -876,7 +1308,13 @@
       "Height": 29,
       "ZOrder": 74,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_pet.tga",
@@ -888,7 +1326,13 @@
       "Height": 29,
       "ZOrder": 75,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_master.tga",
@@ -900,19 +1344,31 @@
       "Height": 29,
       "ZOrder": 76,
       "Visible": true,
-      "Category": "Personaje"
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "newui_chainfo_btn_quest.tga",
       "AltPath": null,
       "Label": "Cha: Btn Reward",
-      "X": 611,
+      "X": 604,
       "Y": 392,
       "Width": 36,
       "Height": 29,
       "ZOrder": 77,
-      "Visible": true,
-      "Category": "Personaje"
+      "Visible": false,
+      "Category": "Personaje",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "LSBg01.OZJ",
@@ -924,7 +1380,13 @@
       "Height": 512,
       "ZOrder": 80,
       "Visible": true,
-      "Category": "Carga"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "LSBg02.OZJ",
@@ -936,7 +1398,13 @@
       "Height": 512,
       "ZOrder": 81,
       "Visible": true,
-      "Category": "Carga"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "LSBg03.OZJ",
@@ -948,7 +1416,13 @@
       "Height": 88,
       "ZOrder": 82,
       "Visible": true,
-      "Category": "Carga"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "LSBg04.OZJ",
@@ -960,7 +1434,13 @@
       "Height": 88,
       "ZOrder": 83,
       "Visible": true,
-      "Category": "Carga"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "New_lo_back_01.jpg",
@@ -972,7 +1452,13 @@
       "Height": 69,
       "ZOrder": 84,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "New_lo_back_02.jpg",
@@ -984,7 +1470,13 @@
       "Height": 69,
       "ZOrder": 85,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "lo_back_s5_03.jpg",
@@ -996,7 +1488,13 @@
       "Height": 100,
       "ZOrder": 86,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "lo_back_s5_04.jpg",
@@ -1008,7 +1506,13 @@
       "Height": 100,
       "ZOrder": 87,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "lo_121518.tga",
@@ -1020,7 +1524,13 @@
       "Height": 206,
       "ZOrder": 88,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     },
     {
       "FileName": "lo_lo.jpg",
@@ -1032,7 +1542,13 @@
       "Height": 600,
       "ZOrder": 89,
       "Visible": true,
-      "Category": "Inicio"
+      "Category": "Botones",
+      "IsText": false,
+      "TextValue": "Preview Text",
+      "FontName": "Tahoma",
+      "FontSize": 10,
+      "FontBold": false,
+      "TextColorHex": "#FFFFFF"
     }
   ]
 }
