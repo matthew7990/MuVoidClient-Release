@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.41",
+    "version":  "1.0.45",
     "date":  "2026-02-24",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -2318,8 +2318,8 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "c95157e99681c55ef9e3edb698a5142847fcd0af14965a598ae71178309a8740",
-                      "size":  21407
+                      "sha256":  "9bf18123492ad5d9fa4409c007ab9b656a551fe3aae52e8c4b2b9dfb483aaba5",
+                      "size":  21438
                   },
                   {
                       "path":  "Data/Interface/Icarus.OZT",
