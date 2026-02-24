@@ -7,36 +7,36 @@
       "AltPath": null,
       "Label": "Marco izq (menu01)",
       "X": 0,
-      "Y": 423.70197,
+      "Y": 423,
       "Width": 256,
       "Height": 51,
       "ZOrder": 0,
       "Visible": true,
-      "ResolvePath": "MenuS2_left.OZJ"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_middle.jpg",
       "AltPath": null,
       "Label": "Marco centro (menu02)",
-      "X": 253.29141,
-      "Y": 423.41058,
+      "X": 253,
+      "Y": 423,
       "Width": 128,
       "Height": 51,
       "ZOrder": 1,
       "Visible": true,
-      "ResolvePath": "MenuS2_middle.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_right.jpg",
       "AltPath": null,
       "Label": "Marco der (menu03)",
-      "X": 381.88077,
-      "Y": 423.56296,
+      "X": 379,
+      "Y": 423,
       "Width": 256,
       "Height": 51,
       "ZOrder": 2,
       "Visible": true,
-      "ResolvePath": "MenuS2_right.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_Red.jpg",
@@ -48,43 +48,43 @@
       "Height": 51,
       "ZOrder": 4,
       "Visible": true,
-      "ResolvePath": "MenuS2_Red.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_Green.jpg",
       "AltPath": null,
       "Label": "Vida - verde (veneno)",
-      "X": 104.29802,
-      "Y": 424.2119,
+      "X": 103,
+      "Y": 424,
       "Width": 45,
       "Height": 51,
       "ZOrder": 5,
       "Visible": true,
-      "ResolvePath": "MenuS2_Green.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_Blue.jpg",
       "AltPath": null,
       "Label": "Man\u00E1 - azul (MP bar)",
-      "X": 490.94043,
-      "Y": 423.4106,
+      "X": 489,
+      "Y": 424,
       "Width": 45,
       "Height": 51,
       "ZOrder": 6,
       "Visible": true,
-      "ResolvePath": "MenuS2_Blue.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_menu_ag.jpg",
       "AltPath": null,
       "Label": "AG bar",
-      "X": 548.7417,
-      "Y": 427.8212,
+      "X": 547,
+      "Y": 429,
       "Width": 16,
       "Height": 39,
       "ZOrder": 7,
       "Visible": true,
-      "ResolvePath": "newui_menu_ag.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_menu_sd.jpg",
@@ -96,31 +96,31 @@
       "Height": 39,
       "ZOrder": 8,
       "Visible": true,
-      "ResolvePath": "newui_menu_sd.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_exbar.jpg",
       "AltPath": null,
       "Label": "EXP bar",
-      "X": 2,
-      "Y": 473,
-      "Width": 629,
+      "X": 220,
+      "Y": 430,
+      "Width": 186,
       "Height": 4,
       "ZOrder": 9,
       "Visible": true,
-      "ResolvePath": "newui_exbar.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "Exbar_Master.jpg",
       "AltPath": null,
       "Label": "EXP Master bar",
-      "X": 2,
-      "Y": 473,
-      "Width": 629,
+      "X": 221,
+      "Y": 431,
+      "Width": 186,
       "Height": 4,
       "ZOrder": 10,
-      "Visible": true,
-      "ResolvePath": "Exbar_Master.jpg"
+      "Visible": false,
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_Party.jpg",
@@ -132,7 +132,7 @@
       "Height": 27,
       "ZOrder": 11,
       "Visible": true,
-      "ResolvePath": "MenuS2_Party.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_Character.jpg",
@@ -144,7 +144,7 @@
       "Height": 27,
       "ZOrder": 12,
       "Visible": true,
-      "ResolvePath": "MenuS2_Character.jpg"
+      "Category": "Personaje"
     },
     {
       "FileName": "MenuS2_Inventory.jpg",
@@ -156,7 +156,7 @@
       "Height": 27,
       "ZOrder": 13,
       "Visible": true,
-      "ResolvePath": "MenuS2_Inventory.jpg"
+      "Category": "Inventario"
     },
     {
       "FileName": "MenuS2_friend.jpg",
@@ -168,7 +168,7 @@
       "Height": 20,
       "ZOrder": 14,
       "Visible": true,
-      "ResolvePath": "MenuS2_friend.jpg"
+      "Category": "Amigos"
     },
     {
       "FileName": "button_close .jpg",
@@ -180,19 +180,19 @@
       "Height": 41,
       "ZOrder": 15,
       "Visible": true,
-      "ResolvePath": "button_close .jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_skillbox.jpg",
       "AltPath": null,
       "Label": "Skill slot 1 (hotkey)",
-      "X": 300.8212,
-      "Y": 440.88742,
+      "X": 300,
+      "Y": 441,
       "Width": 30,
       "Height": 32,
       "ZOrder": 16,
       "Visible": true,
-      "ResolvePath": "newui_skillbox.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -204,7 +204,7 @@
       "Height": 20,
       "ZOrder": 22,
       "Visible": true,
-      "ResolvePath": "newui_skillbox.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -216,7 +216,7 @@
       "Height": 20,
       "ZOrder": 23,
       "Visible": true,
-      "ResolvePath": "newui_skillbox.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_skillbox.jpg",
@@ -228,79 +228,79 @@
       "Height": 20,
       "ZOrder": 24,
       "Visible": true,
-      "ResolvePath": "newui_skillbox.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "skill.jpg",
       "AltPath": null,
       "Label": "Skill icons sheet 1",
-      "X": 364,
-      "Y": 207,
+      "X": 235,
+      "Y": 385,
       "Width": 160,
       "Height": 38,
       "ZOrder": 26,
       "Visible": true,
-      "ResolvePath": "skill.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "skill2.jpg",
       "AltPath": null,
       "Label": "Skill icons sheet 2",
-      "X": 217,
-      "Y": 153,
+      "X": 296,
+      "Y": 386,
       "Width": 32,
       "Height": 38,
       "ZOrder": 27,
       "Visible": true,
-      "ResolvePath": "skill2.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "command.jpg",
       "AltPath": null,
       "Label": "Skill command sheet",
-      "X": 203,
-      "Y": 207.28477,
+      "X": 235,
+      "Y": 387,
       "Width": 160,
       "Height": 38,
       "ZOrder": 28,
       "Visible": true,
-      "ResolvePath": "command.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_non_skill.jpg",
       "AltPath": null,
       "Label": "Non-skill sheet 1",
-      "X": 81.072845,
-      "Y": 291.13245,
+      "X": 296,
+      "Y": 387,
       "Width": 32,
       "Height": 38,
       "ZOrder": 29,
       "Visible": true,
-      "ResolvePath": "newui_non_skill.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_non_skill2.jpg",
       "AltPath": null,
       "Label": "Non-skill sheet 2",
-      "X": 107,
-      "Y": 219,
+      "X": 295,
+      "Y": 385,
       "Width": 32,
       "Height": 38,
       "ZOrder": 30,
       "Visible": true,
-      "ResolvePath": "newui_non_skill2.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "MenuS2_left.jpg",
       "AltPath": null,
       "Label": "Non-command sheet",
-      "X": 242.66225,
-      "Y": 309.73505,
+      "X": 243,
+      "Y": 310,
       "Width": 160,
       "Height": 38,
       "ZOrder": 31,
       "Visible": true,
-      "ResolvePath": "MenuS2_left.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "skill3.jpg",
@@ -312,19 +312,655 @@
       "Height": 38,
       "ZOrder": 32,
       "Visible": true,
-      "ResolvePath": "skill3.jpg"
+      "Category": "HUD"
     },
     {
       "FileName": "newui_non_skill3.jpg",
       "AltPath": null,
       "Label": "Non-skill sheet 3",
-      "X": 550.82776,
-      "Y": 310.73508,
+      "X": 293,
+      "Y": 384,
       "Width": 32,
       "Height": 38,
       "ZOrder": 33,
       "Visible": true,
-      "ResolvePath": "newui_non_skill3.jpg"
+      "Category": "HUD"
+    },
+    {
+      "FileName": "newui_msgbox_back.jpg",
+      "AltPath": null,
+      "Label": "Inv: Fondo",
+      "X": 450,
+      "Y": 0,
+      "Width": 190,
+      "Height": 429,
+      "ZOrder": 34,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_back04.tga",
+      "AltPath": null,
+      "Label": "Inv: Top",
+      "X": 450,
+      "Y": 0,
+      "Width": 190,
+      "Height": 64,
+      "ZOrder": 35,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_back02-L.tga",
+      "AltPath": null,
+      "Label": "Inv: Left",
+      "X": 450,
+      "Y": 64,
+      "Width": 21,
+      "Height": 320,
+      "ZOrder": 36,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_back02-R.tga",
+      "AltPath": null,
+      "Label": "Inv: Right",
+      "X": 619,
+      "Y": 64,
+      "Width": 21,
+      "Height": 320,
+      "ZOrder": 37,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_back03.tga",
+      "AltPath": null,
+      "Label": "Inv: Bottom",
+      "X": 450,
+      "Y": 384,
+      "Width": 190,
+      "Height": 45,
+      "ZOrder": 38,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_fairy.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Helper",
+      "X": 465,
+      "Y": 44,
+      "Width": 46,
+      "Height": 46,
+      "ZOrder": 39,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_cap.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Helm",
+      "X": 525,
+      "Y": 44,
+      "Width": 46,
+      "Height": 46,
+      "ZOrder": 40,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_wing.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Wing",
+      "X": 570,
+      "Y": 44,
+      "Width": 61,
+      "Height": 46,
+      "ZOrder": 41,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_weapon(L).tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Weapon (R)",
+      "X": 465,
+      "Y": 87,
+      "Width": 46,
+      "Height": 66,
+      "ZOrder": 42,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_upper.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Armor",
+      "X": 525,
+      "Y": 87,
+      "Width": 46,
+      "Height": 66,
+      "ZOrder": 43,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_weapon(R).tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Weapon (L)",
+      "X": 585,
+      "Y": 87,
+      "Width": 46,
+      "Height": 66,
+      "ZOrder": 44,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_gloves.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Gloves",
+      "X": 465,
+      "Y": 150,
+      "Width": 46,
+      "Height": 46,
+      "ZOrder": 45,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_lower.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Pants",
+      "X": 525,
+      "Y": 150,
+      "Width": 46,
+      "Height": 46,
+      "ZOrder": 46,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_boots.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Boots",
+      "X": 585,
+      "Y": 150,
+      "Width": 46,
+      "Height": 46,
+      "ZOrder": 47,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_necklace.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Amulet",
+      "X": 504,
+      "Y": 87,
+      "Width": 28,
+      "Height": 28,
+      "ZOrder": 48,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_ring.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Ring (R)",
+      "X": 504,
+      "Y": 150,
+      "Width": 28,
+      "Height": 28,
+      "ZOrder": 49,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_ring.tga",
+      "AltPath": null,
+      "Label": "Inv: Slot Ring (L)",
+      "X": 564,
+      "Y": 150,
+      "Width": 28,
+      "Height": 28,
+      "ZOrder": 50,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_item_money.tga",
+      "AltPath": null,
+      "Label": "Inv: Money",
+      "X": 461,
+      "Y": 364,
+      "Width": 170,
+      "Height": 26,
+      "ZOrder": 51,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_exit_00.tga",
+      "AltPath": null,
+      "Label": "Inv: Btn Exit",
+      "X": 463,
+      "Y": 391,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 52,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_repair_00.tga",
+      "AltPath": null,
+      "Label": "Inv: Btn Repair",
+      "X": 500,
+      "Y": 391,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 53,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_Bt_openshop.tga",
+      "AltPath": null,
+      "Label": "Inv: Btn MyShop",
+      "X": 537,
+      "Y": 391,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 54,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_expansion_btn.tga",
+      "AltPath": null,
+      "Label": "Inv: Btn Expand",
+      "X": 574,
+      "Y": 391,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 55,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_expansion_btn.tga",
+      "AltPath": null,
+      "Label": "Inv: Btn Reward",
+      "X": 604,
+      "Y": 391,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 56,
+      "Visible": true,
+      "Category": "Inventario"
+    },
+    {
+      "FileName": "newui_msgbox_back.jpg",
+      "AltPath": null,
+      "Label": "Cha: Fondo",
+      "X": 450,
+      "Y": 0,
+      "Width": 190,
+      "Height": 429,
+      "ZOrder": 58,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_item_back04.tga",
+      "AltPath": null,
+      "Label": "Cha: Top",
+      "X": 450,
+      "Y": 0,
+      "Width": 190,
+      "Height": 64,
+      "ZOrder": 59,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_item_back02-L.tga",
+      "AltPath": null,
+      "Label": "Cha: Left",
+      "X": 450,
+      "Y": 64,
+      "Width": 21,
+      "Height": 320,
+      "ZOrder": 60,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_item_back02-R.tga",
+      "AltPath": null,
+      "Label": "Cha: Right",
+      "X": 619,
+      "Y": 64,
+      "Width": 21,
+      "Height": 320,
+      "ZOrder": 61,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_item_back03.tga",
+      "AltPath": null,
+      "Label": "Cha: Bottom",
+      "X": 450,
+      "Y": 384,
+      "Width": 190,
+      "Height": 45,
+      "ZOrder": 62,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_cha_textbox02.tga",
+      "AltPath": null,
+      "Label": "Cha: Stat Box 1",
+      "X": 462,
+      "Y": 120,
+      "Width": 170,
+      "Height": 19,
+      "ZOrder": 63,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_cha_textbox02.tga",
+      "AltPath": null,
+      "Label": "Cha: Stat Box 2",
+      "X": 462,
+      "Y": 175,
+      "Width": 170,
+      "Height": 19,
+      "ZOrder": 64,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_cha_textbox02.tga",
+      "AltPath": null,
+      "Label": "Cha: Stat Box 3",
+      "X": 462,
+      "Y": 240,
+      "Width": 170,
+      "Height": 19,
+      "ZOrder": 65,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_cha_textbox02.tga",
+      "AltPath": null,
+      "Label": "Cha: Stat Box 4",
+      "X": 462,
+      "Y": 295,
+      "Width": 170,
+      "Height": 19,
+      "ZOrder": 66,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_cha_textbox02.tga",
+      "AltPath": null,
+      "Label": "Cha: Stat Box 5",
+      "X": 462,
+      "Y": 350,
+      "Width": 170,
+      "Height": 19,
+      "ZOrder": 67,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_level.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Stat 1",
+      "X": 610,
+      "Y": 122,
+      "Width": 16,
+      "Height": 15,
+      "ZOrder": 68,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_level.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Stat 2",
+      "X": 610,
+      "Y": 177,
+      "Width": 16,
+      "Height": 15,
+      "ZOrder": 69,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_level.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Stat 3",
+      "X": 610,
+      "Y": 242,
+      "Width": 16,
+      "Height": 15,
+      "ZOrder": 70,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_level.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Stat 4",
+      "X": 610,
+      "Y": 297,
+      "Width": 16,
+      "Height": 15,
+      "ZOrder": 71,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_level.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Stat 5",
+      "X": 610,
+      "Y": 352,
+      "Width": 16,
+      "Height": 15,
+      "ZOrder": 72,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_exit_00.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Exit",
+      "X": 463,
+      "Y": 392,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 73,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_quest.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Quest",
+      "X": 500,
+      "Y": 392,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 74,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_pet.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Pet",
+      "X": 537,
+      "Y": 392,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 75,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_master.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Master",
+      "X": 574,
+      "Y": 392,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 76,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "newui_chainfo_btn_quest.tga",
+      "AltPath": null,
+      "Label": "Cha: Btn Reward",
+      "X": 611,
+      "Y": 392,
+      "Width": 36,
+      "Height": 29,
+      "ZOrder": 77,
+      "Visible": true,
+      "Category": "Personaje"
+    },
+    {
+      "FileName": "LSBg01.OZJ",
+      "AltPath": null,
+      "Label": "Carga: Loading Part 1",
+      "X": 0,
+      "Y": 0,
+      "Width": 400,
+      "Height": 512,
+      "ZOrder": 80,
+      "Visible": true,
+      "Category": "Carga"
+    },
+    {
+      "FileName": "LSBg02.OZJ",
+      "AltPath": null,
+      "Label": "Carga: Loading Part 2",
+      "X": 400,
+      "Y": 0,
+      "Width": 400,
+      "Height": 512,
+      "ZOrder": 81,
+      "Visible": true,
+      "Category": "Carga"
+    },
+    {
+      "FileName": "LSBg03.OZJ",
+      "AltPath": null,
+      "Label": "Carga: Loading Part 3",
+      "X": 0,
+      "Y": 512,
+      "Width": 400,
+      "Height": 88,
+      "ZOrder": 82,
+      "Visible": true,
+      "Category": "Carga"
+    },
+    {
+      "FileName": "LSBg04.OZJ",
+      "AltPath": null,
+      "Label": "Carga: Loading Part 4",
+      "X": 400,
+      "Y": 512,
+      "Width": 400,
+      "Height": 88,
+      "ZOrder": 83,
+      "Visible": true,
+      "Category": "Carga"
+    },
+    {
+      "FileName": "New_lo_back_01.jpg",
+      "AltPath": null,
+      "Label": "Inicio: Strip Top Left",
+      "X": 0,
+      "Y": 0,
+      "Width": 400,
+      "Height": 69,
+      "ZOrder": 84,
+      "Visible": true,
+      "Category": "Inicio"
+    },
+    {
+      "FileName": "New_lo_back_02.jpg",
+      "AltPath": null,
+      "Label": "Inicio: Strip Top Right",
+      "X": 400,
+      "Y": 0,
+      "Width": 400,
+      "Height": 69,
+      "ZOrder": 85,
+      "Visible": true,
+      "Category": "Inicio"
+    },
+    {
+      "FileName": "lo_back_s5_03.jpg",
+      "AltPath": null,
+      "Label": "Inicio: Strip Bot Left",
+      "X": 0,
+      "Y": 500,
+      "Width": 400,
+      "Height": 100,
+      "ZOrder": 86,
+      "Visible": true,
+      "Category": "Inicio"
+    },
+    {
+      "FileName": "lo_back_s5_04.jpg",
+      "AltPath": null,
+      "Label": "Inicio: Strip Bot Right",
+      "X": 400,
+      "Y": 500,
+      "Width": 400,
+      "Height": 100,
+      "ZOrder": 87,
+      "Visible": true,
+      "Category": "Inicio"
+    },
+    {
+      "FileName": "lo_121518.tga",
+      "AltPath": null,
+      "Label": "Inicio: Logo",
+      "X": 544,
+      "Y": 60,
+      "Width": 256,
+      "Height": 206,
+      "ZOrder": 88,
+      "Visible": true,
+      "Category": "Inicio"
+    },
+    {
+      "FileName": "lo_lo.jpg",
+      "AltPath": null,
+      "Label": "Inicio: Pattern",
+      "X": 0,
+      "Y": 0,
+      "Width": 800,
+      "Height": 600,
+      "ZOrder": 89,
+      "Visible": true,
+      "Category": "Inicio"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-    "version":  "1.0.39",
+    "version":  "1.0.41",
     "date":  "2026-02-24",
-    "commit":  "db13ebca",
+    "commit":  "d3ec323b",
     "changelog":  [
                       "Versión inicial del cliente MuVoid"
                   ],
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "0ed34e79670c11e6fd34af04b3033942858a928ce80de5585654292b8772d2c2",
+                      "sha256":  "0395c51eb1aaca95de5926fa91a3f2ce0d7abd50e9325aae1e218a9cdcc2d69e",
                       "size":  5710848
                   },
                   {
@@ -2318,8 +2318,8 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "aad82b5e039969585e3913de91a586dbe96f40ca50b97a664b62b0e429ffbe06",
-                      "size":  7713
+                      "sha256":  "c95157e99681c55ef9e3edb698a5142847fcd0af14965a598ae71178309a8740",
+                      "size":  21407
                   },
                   {
                       "path":  "Data/Interface/Icarus.OZT",
