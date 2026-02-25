@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.89",
+    "version":  "1.0.94",
     "date":  "2026-02-25",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "604781a741fd6a17c191a1ee143cf6c55c06f9128fbf6b6740e2bddfad374df6",
-                      "size":  5718016
+                      "sha256":  "e39da6f9bec8636459248dae9c2226bfc2d22c008342b611593ee6749cd5fcc9",
+                      "size":  5719552
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -2318,8 +2318,8 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "c01c8be43cf99376e4e58219ad6024679d06243a259982bae50c9e022d771ac7",
-                      "size":  37799
+                      "sha256":  "2c6259f1b961a29c548f7bc9231ba8eb5de1750faf7e13f5de76b011d1f2da1e",
+                      "size":  37760
                   },
                   {
                       "path":  "Data/Interface/Icarus.OZT",
