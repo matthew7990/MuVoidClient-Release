@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.262",
+    "version":  "1.0.264",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "b33ed6ce643d6a9fe5196aee177463aed54b2c91703c8ac4030ec37b25d3c8b0",
+                      "sha256":  "afbac3000927104a0dc52d296f09515818441716c3bded071d6554289a4df6e0",
                       "size":  5724672
                   },
                   {
@@ -70318,8 +70318,8 @@
                   },
                   {
                       "path":  "Data/World74/CWScript74.cws",
-                      "sha256":  "0c7c565fb7588fd1c11f33df7e0c95ab0af5ab1ea73e5d847b112aebe9d17e25",
-                      "size":  64
+                      "sha256":  "1ed9ba7e74f1ff45c692c259be38a35cf698c5c5d260adc4a2815c8f43bebf6b",
+                      "size":  91
                   },
                   {
                       "path":  "Data/World74/CWScript74.cws.bak",
