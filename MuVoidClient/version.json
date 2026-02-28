@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.175",
+    "version":  "1.0.177",
     "date":  "2026-02-27",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "5cfc841e783fcbbbdbc00ad701cc0afa8b525136fa43ea11d66c4a29fcd1101f",
-                      "size":  5731328
+                      "sha256":  "eab475f601605c5952dd8749fe85a84a406a571415991e070eb877a51c71f420",
+                      "size":  5733376
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -70170,6 +70170,11 @@
                       "path":  "Data/World73/AlphaTile01.OZT",
                       "sha256":  "a1347aca387a9c9ee90610d7fcef8be5e28dee4b3986f8a0269aa1d4a205da0b",
                       "size":  262192
+                  },
+                  {
+                      "path":  "Data/World73/CWScript73.cws",
+                      "sha256":  "d3a583786c5fa5e0a532c9e620dc14313ac0ee7827ad1fd9e5547ed1e41e7907",
+                      "size":  64
                   },
                   {
                       "path":  "Data/World73/EncTerrain73.att",
