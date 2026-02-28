@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.177",
+    "version":  "1.0.179",
     "date":  "2026-02-27",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "eab475f601605c5952dd8749fe85a84a406a571415991e070eb877a51c71f420",
+                      "sha256":  "cd66d9108335640640190b32d96e9bfb4bc99ae5857427185b03f1aa499c281d",
                       "size":  5733376
                   },
                   {
@@ -70485,6 +70485,11 @@
                       "path":  "Data/World75/badge_01.OZJ",
                       "sha256":  "c320a30bb1df3444a314ecb2ef6102d9b79d9ea88201e2618d97f729d96723e3",
                       "size":  5635
+                  },
+                  {
+                      "path":  "Data/World75/CWScript75.cws",
+                      "sha256":  "d3a583786c5fa5e0a532c9e620dc14313ac0ee7827ad1fd9e5547ed1e41e7907",
+                      "size":  64
                   },
                   {
                       "path":  "Data/World75/EncTerrain75.att",
