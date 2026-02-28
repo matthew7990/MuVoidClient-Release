@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.192",
+    "version":  "1.0.194",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -70635,6 +70635,151 @@
                       "path":  "Data/World75/TileWood01.OZJ",
                       "sha256":  "4440c93bdd4f2f634aad751a4e3d39404ebdfeeeb4438ae696abe812100a5f23",
                       "size":  108159
+                  },
+                  {
+                      "path":  "Data/World76/AlphaTile01.OZT",
+                      "sha256":  "a1347aca387a9c9ee90610d7fcef8be5e28dee4b3986f8a0269aa1d4a205da0b",
+                      "size":  262192
+                  },
+                  {
+                      "path":  "Data/World76/CWScript73.cws",
+                      "sha256":  "d3a583786c5fa5e0a532c9e620dc14313ac0ee7827ad1fd9e5547ed1e41e7907",
+                      "size":  64
+                  },
+                  {
+                      "path":  "Data/World76/CWScript76.cws",
+                      "sha256":  "d3a583786c5fa5e0a532c9e620dc14313ac0ee7827ad1fd9e5547ed1e41e7907",
+                      "size":  64
+                  },
+                  {
+                      "path":  "Data/World76/EncTerrain76.att",
+                      "sha256":  "92f26ff1daeb7fa92ace42372ca850014394132b53d91f74f2135652146d41e9",
+                      "size":  131076
+                  },
+                  {
+                      "path":  "Data/World76/EncTerrain76.map",
+                      "sha256":  "9d6e716ef40fbf4f70176cc403742d81c3eb6260a9e749355596f5ca56e0c437",
+                      "size":  196610
+                  },
+                  {
+                      "path":  "Data/World76/EncTerrain76.obj",
+                      "sha256":  "029b0fb6b04db41153d3f155a36cbba49620be0354e95a9d28822a7ea72179af",
+                      "size":  50104
+                  },
+                  {
+                      "path":  "Data/World76/Fog.OZJ",
+                      "sha256":  "36dd1b4516b9395e5dac0952bff0b870928a5e6e4a3b037ee2e964534682f117",
+                      "size":  4910
+                  },
+                  {
+                      "path":  "Data/World76/leaf01.OZJ",
+                      "sha256":  "7f9abbec653d6265aa97c2f18a18e4f9d7ab06a54cb779752a0ed664e6176aa1",
+                      "size":  2171
+                  },
+                  {
+                      "path":  "Data/World76/leaf01.OZT",
+                      "sha256":  "bd5f1729d2ef79e6ba37f95368e0532876def38867a0c202bc042ae65502a56b",
+                      "size":  1072
+                  },
+                  {
+                      "path":  "Data/World76/leaf02.OZJ",
+                      "sha256":  "7f4c447b2da48ae4bfc1595a01275e573cfdffd2f8eedfbecfe7b9719ddae37b",
+                      "size":  2240
+                  },
+                  {
+                      "path":  "Data/World76/TerrainHeight.OZB",
+                      "sha256":  "443e6116f6bd8c7968957d0646cff6f9d34ebcba776fb6c302cf3c26f975b578",
+                      "size":  66620
+                  },
+                  {
+                      "path":  "Data/World76/TerrainLight.OZJ",
+                      "sha256":  "2df6e6a17c4d6c9e7cbd34d7e124a671c929ace8c91f9f3481f9bcf2b1397730",
+                      "size":  40850
+                  },
+                  {
+                      "path":  "Data/World76/TileGrass01.OZJ",
+                      "sha256":  "b4cfdedcadfcdbc5194c40a32bbc4a96fe6777b3b6a05a0e46d431d3dc8c3642",
+                      "size":  131919
+                  },
+                  {
+                      "path":  "Data/World76/TileGrass01.OZT",
+                      "sha256":  "078437d15b4da3f0d1fdeeb3e9489957315723059c03f88ebe2e694fb8d89ea5",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World76/TileGrass02.OZJ",
+                      "sha256":  "41ffa30f14234dc653966c71d77d98683ff62e934a4e854f15673ca432906c19",
+                      "size":  176095
+                  },
+                  {
+                      "path":  "Data/World76/TileGrass02.OZT",
+                      "sha256":  "281211a590be826a4a403b711448b7254bca9565306c1547e793ba279da4fa99",
+                      "size":  65584
+                  },
+                  {
+                      "path":  "Data/World76/TileGrass03.OZT",
+                      "sha256":  "4e8df0d1fe9342ad4ca541ffdf4918ed73492ebfc3fb44a52102224d141c526a",
+                      "size":  131120
+                  },
+                  {
+                      "path":  "Data/World76/TileGround01.OZJ",
+                      "sha256":  "b081fa2148d45466b6b11bdb6b024274fd61f093526ae3651ab9ca2713fe676a",
+                      "size":  122990
+                  },
+                  {
+                      "path":  "Data/World76/TileGround02.OZJ",
+                      "sha256":  "733c5ad704e37e43a52d5214f7b231162705e4f40cd6dd0b023bee593c7808d0",
+                      "size":  127964
+                  },
+                  {
+                      "path":  "Data/World76/TileGround03.OZJ",
+                      "sha256":  "8818b81833328eac2170e8bdd96f0dc6d894da0f7b3cd8c7039b77a06c9b7696",
+                      "size":  128829
+                  },
+                  {
+                      "path":  "Data/World76/TileRock01.OZJ",
+                      "sha256":  "5bfa7fa55f23a2e339b3abdd18b69811170a7f07cacaf9bdec7d14ac1fd7f283",
+                      "size":  88464
+                  },
+                  {
+                      "path":  "Data/World76/TileRock02.OZJ",
+                      "sha256":  "c453c486086fb5e62f34df8d729e1c3ab9f5bec35705f69ba2951d39d1fafd0f",
+                      "size":  140020
+                  },
+                  {
+                      "path":  "Data/World76/TileRock03.OZJ",
+                      "sha256":  "7b6b759cb528be5643a8f45e3be126843636bb91576f382e4289452b2f463014",
+                      "size":  96283
+                  },
+                  {
+                      "path":  "Data/World76/TileRock04.OZJ",
+                      "sha256":  "e1fa8a3db08606cd538419b93a4b8375aa899845f4ca99a280181fc0a4cc1413",
+                      "size":  145691
+                  },
+                  {
+                      "path":  "Data/World76/TileRock05.OZJ",
+                      "sha256":  "2331c64920ab9d800849b70fd256d40055782724b08d049090641741018ac6fc",
+                      "size":  87374
+                  },
+                  {
+                      "path":  "Data/World76/TileRock06.OZJ",
+                      "sha256":  "2b2de371d40059b2a59558690ab2394162c5cb04941b750de279015bb5ae9420",
+                      "size":  16530
+                  },
+                  {
+                      "path":  "Data/World76/TileRock07.OZJ",
+                      "sha256":  "7aa3d6a6375be817a416961938c9d552da6907892b4b0f4c1ad5d13fd003bf85",
+                      "size":  92612
+                  },
+                  {
+                      "path":  "Data/World76/TileWater01.OZJ",
+                      "sha256":  "f623b284b568c101a101bbb2749e5e633a526958308f42c2164f223c71c60dc9",
+                      "size":  46578
+                  },
+                  {
+                      "path":  "Data/World76/TileWood01.OZJ",
+                      "sha256":  "ac9caf59b47b538ca1cdb32b06d067a67a700e8505f448a1b9f209fe06fe8029",
+                      "size":  112660
                   },
                   {
                       "path":  "Data/World78/AlphaTileGround01.OZT",
