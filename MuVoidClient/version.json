@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.198",
+    "version":  "1.0.202",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -70173,7 +70173,7 @@
                   },
                   {
                       "path":  "Data/World73/CWScript73.cws",
-                      "sha256":  "3f22025293963570de6a811e91e1c62e0f4f7afe8f13f66068b8696f76481152",
+                      "sha256":  "fc7cc637623c836d352afcf50c9ed761527dbe3679e75e4a381e112ae2cda1d9",
                       "size":  64
                   },
                   {
