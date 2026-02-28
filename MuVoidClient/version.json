@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.276",
+    "version":  "1.0.278",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "049b527492222377d655d6e04866cf0b0ca889b520483f18b991ca41ef5f4009",
+                      "sha256":  "494be58ea1313fc7f7e30c6f1b1ca5debfc70deaab433ac9d7845e596053af64",
                       "size":  5724672
                   },
                   {
@@ -51897,6 +51897,51 @@
                       "size":  10752
                   },
                   {
+                      "path":  "Data/Object74/Object30.bmd",
+                      "sha256":  "fd880fa24674f576490d647edc71da594ebfe20f73381874fe503404a9c320c7",
+                      "size":  294772
+                  },
+                  {
+                      "path":  "Data/Object74/Object31.bmd",
+                      "sha256":  "4b63b41ab282bc019e68a685b40447e83129a5c318ed1fd8ec859d1d56055d2b",
+                      "size":  5194
+                  },
+                  {
+                      "path":  "Data/Object74/Object32.bmd",
+                      "sha256":  "b9add8a69b3afbeb1d5ca9a4c0b2b6dbd20843171d2f2bb5dedd80f31f32dbf4",
+                      "size":  16537
+                  },
+                  {
+                      "path":  "Data/Object74/Object33.bmd",
+                      "sha256":  "7c85700f42d3f484c7c0e1fc5630f2de34d09bdd8a5fb6d2a7e2d9c4a80fe3e4",
+                      "size":  8924
+                  },
+                  {
+                      "path":  "Data/Object74/Object34.bmd",
+                      "sha256":  "29b208cc451530e29970fd7d89ee4084289876af3a709be8e786f92ff6c0e5ff",
+                      "size":  6408
+                  },
+                  {
+                      "path":  "Data/Object74/Object35.bmd",
+                      "sha256":  "fd590d86f34a82ae81702cdb2605a3c8ea5f8569e1305b019673cc018c4a315f",
+                      "size":  6694
+                  },
+                  {
+                      "path":  "Data/Object74/Object37.bmd",
+                      "sha256":  "30d1fec80c1be91b43076c86443d7aa8711c639c9c82b19277378fbcb6f8c814",
+                      "size":  62345
+                  },
+                  {
+                      "path":  "Data/Object74/Object38.bmd",
+                      "sha256":  "401f6172b809de0151bae8fc8ebe0d942086a53add9ef705f711571b048e07d9",
+                      "size":  71916
+                  },
+                  {
+                      "path":  "Data/Object74/Object39.bmd",
+                      "sha256":  "55dc84f6f176278414df33709794fca209368be4d1d396eef879cbded75ddd82",
+                      "size":  1212
+                  },
+                  {
                       "path":  "Data/Object74/Object40.bmd",
                       "sha256":  "c697c292147d4535c2b80c288a9a129bc7ae57566298d3b8843a8f37d90ec8cd",
                       "size":  1486
@@ -70273,8 +70318,8 @@
                   },
                   {
                       "path":  "Data/World74/CWScript74.cws",
-                      "sha256":  "394d547d86ddbd5edb665a5e8843017c116705860a356540787a6fd9fc42bf94",
-                      "size":  148
+                      "sha256":  "400617600cd9e78fe38e40b8612d77e8c84dc5b08ee28f367b653b1d09778cb5",
+                      "size":  91
                   },
                   {
                       "path":  "Data/World74/CWScript74.cws.bak",
