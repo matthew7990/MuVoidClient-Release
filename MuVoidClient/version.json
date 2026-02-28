@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.289",
+    "version":  "1.0.291",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "f2eeb5df15c2cb45ca170ff52e8341c5712efd74e1503586f0cb06a23aab85e5",
-                      "size":  5724160
+                      "sha256":  "aedba6ceaed95afcc925a25e6e51a2b5e3eaa2d6779430fda415ddd527206971",
+                      "size":  5722112
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -2318,7 +2318,7 @@
                   },
                   {
                       "path":  "Data/Interface/hud_layout.json",
-                      "sha256":  "fc5088059eb342450a3ed376d875c5abddb659ffd5c1612891e3e5a8fece0efd",
+                      "sha256":  "6a983a30bc8ec5438fa35592757af62c8317291510698762d7709515004cea52",
                       "size":  37713
                   },
                   {
