@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.256",
+    "version":  "1.0.258",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "4e7b70b59955e924ba1751b0d05a114624faaae85c44c4400ae71737c60722de",
-                      "size":  5736960
+                      "sha256":  "2aed534d9b7067fbe8a197b3c23144294c155f29b4950e35180d6b633229b1ce",
+                      "size":  5732864
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
@@ -70318,7 +70318,7 @@
                   },
                   {
                       "path":  "Data/World74/CWScript74.cws",
-                      "sha256":  "bebbdf9e411aa9b9f19dd7fa3ab6b778bbfee8eded258f16a3e1e480cbd8fd23",
+                      "sha256":  "d4f11d0f76ee9726c480978e8c08ce0cf9079018a218a1104289698e955ed329",
                       "size":  64
                   },
                   {
