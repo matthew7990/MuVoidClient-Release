@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.181",
+    "version":  "1.0.185",
     "date":  "2026-02-27",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,8 +13,8 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "2b47c3a245d3234278ee6fc9fb3ddafa24b95f424d9fe0a286e0ae6ae61140bc",
-                      "size":  5733376
+                      "sha256":  "962b4ef905439ccf28d83366d03f3278fac1176ca17f95d6ca98b0c5f936bf53",
+                      "size":  5745152
                   },
                   {
                       "path":  "MUnique.Client.Library.dll",
