@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.250",
+    "version":  "1.0.252",
     "date":  "2026-02-28",
     "commit":  "d3ec323b",
     "changelog":  [
@@ -13,7 +13,7 @@
                   },
                   {
                       "path":  "Main.exe",
-                      "sha256":  "7f2ac1ff9606c8bd993fc4e9ed66c87fe849c4bffac7a7b75ea74fd3568f2e6f",
+                      "sha256":  "6cde6aceefd8751c4b79cb624a28f09f34ad234ab2969e77c8312e4866df1d9a",
                       "size":  5736448
                   },
                   {
